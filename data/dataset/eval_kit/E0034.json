@@ -1,0 +1,16 @@
+{
+  "id": "E0034",
+  "channel": "sms",
+  "sender": {
+    "name": "ANAF",
+    "address": "ANAF",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Stimate client, ANAF - Spaţiul Privat Virtual: în urma recalculării, aveţi de primit 3.380 lei. Pentru încasare, confirmaţi datele bancare pe anaff.ro Dacă nu completaţi până pe 01.12, suma se anulează. Vă mulţumim pentru înţelegere."
+    }
+  ]
+}

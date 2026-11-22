@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="ro">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, interactive-widget=resizes-content">
+<meta name="theme-color" content="#f5f7f6" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0f1716" media="(prefers-color-scheme: dark)">
+<meta name="description" content="Scam Shield vă anunță doar dacă un mesaj pare o țeapă.">
+<!-- Installable: "Adaugă pe ecranul principal" opens it full screen, like an app. -->
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Scam Shield">
+<link rel="apple-touch-icon" href="icons/icon-180.png">
+<link rel="icon" href="icons/icon-192.png" type="image/png">
+<title>Scam Shield</title>
+<link rel="stylesheet" href="design-system/tokens.css">
+<link rel="stylesheet" href="design-system/bundle.css">
+<link rel="stylesheet" href="src/mobile.css">
+</head>
+<body>
+<div id="app"></div>
+<noscript><p style="padding:24px;font-size:20px">Scam Shield are nevoie de JavaScript ca să funcționeze.</p></noscript>
+<script src="vendor/react.production.min.js"></script>
+<script src="vendor/react-dom.production.min.js"></script>
+<script src="design-system/bundle.js"></script>
+<script src="src/config.js"></script>
+<script src="src/catalog.js"></script>
+<script src="src/detector.js"></script>
+<script src="src/warnings.js"></script>
+<script src="src/parse.js"></script>
+<script src="src/analyzer.js"></script>
+<script src="src/voice.js"></script>
+<script src="src/mobile.js"></script>
+</body>
+</html>

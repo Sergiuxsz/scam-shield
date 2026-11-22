@@ -1,0 +1,16 @@
+{
+  "id": "T1718",
+  "channel": "sms",
+  "sender": {
+    "name": "SAMEDAY",
+    "address": "1882",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Coletul tau AWB 1ONB948271635 de la eMAG nu a putut fi livrat deoarece nu ai raspuns la telefon. Poti reprograma livrarea sau il poti redirectiona gratuit catre cel mai apropiat easybox pana la ora 18:00 accesand linkul oficial: https://sameday.ro/awb/1ONB948271635"
+    }
+  ]
+}

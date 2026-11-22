@@ -1,0 +1,31 @@
+{
+  "id": "T1740",
+  "channel": "whatsapp",
+  "sender": {
+    "name": "Sorin",
+    "address": "+40 7xx xxx 481",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Am ajuns la spital cu frate-meu, a căzut de pe trotinetă și s-a ales cu mâna ruptă, nimic grav să-ți faci griji, dar stăm aici la urgențe o bucată bună de vreme."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Nasol moment, e conștient, îi trebuie ceva?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "E ok, doar nervos că a ratat antrenamentul. Are nevoie de o gipsare și probabil îl țin peste noapte, te anunț eu cum iese de la radiografie."
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Ok, dă-mi un semn când știi mai multe, sper să fie doar atâta."
+    }
+  ]
+}

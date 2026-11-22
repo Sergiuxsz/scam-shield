@@ -1,0 +1,16 @@
+{
+  "id": "E0278",
+  "channel": "sms",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 528",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Buna, sunteti interesat de un venit extra? Primiti 360 lei pe zi doar ca sa testati aplicatii. Adaugati-ma pe Telegram: @team_mădălina18 Achitati 187,93 lei pentru kitul de inceput. Pentru mai multe informatii, consultati termenii si conditiile."
+    }
+  ]
+}

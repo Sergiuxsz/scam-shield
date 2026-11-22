@@ -1,0 +1,16 @@
+{
+  "id": "E0143",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 158",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "TehnoMax: Ai câștigat un telefon nou! Achitați impozitul pe câștig, 216,51 lei, prin transfer. Aștept răspunsul dvs."
+    }
+  ]
+}

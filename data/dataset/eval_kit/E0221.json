@@ -1,0 +1,36 @@
+{
+  "id": "E0221",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 318",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună, am trecut la alt operator și am număr nou. Pupici! Sper că ești bine. Aici plouă de azi-dimineață, tu ce faci? Mersi mult!"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Bună! Cine ești?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Ți-am trimis și pe mail pozele."
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Bine, puiule."
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "Ne azim mâine."
+    }
+  ]
+}

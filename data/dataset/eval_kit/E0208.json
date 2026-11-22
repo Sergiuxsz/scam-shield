@@ -1,0 +1,21 @@
+{
+  "id": "E0208",
+  "channel": "sms",
+  "sender": {
+    "name": "Tata",
+    "address": "+40 7xx xxx 404",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Am făcut grup pe WhatsApp pentru excursie. 🙏"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Super 🙂"
+    }
+  ]
+}

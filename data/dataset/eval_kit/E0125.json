@@ -1,0 +1,21 @@
+{
+  "id": "E0125",
+  "channel": "email",
+  "sender": {
+    "name": "ANAF Clienți",
+    "address": "noreply@anaf.ro",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "ANAF Rambursări: suma de 2.880 lei urmează să vă fie restituită. Nu este necesară nicio acțiune. Detalii pe anaf.ro/awb."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "De unde aveți numărul meu?"
+    }
+  ]
+}

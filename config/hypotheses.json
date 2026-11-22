@@ -1,0 +1,31 @@
+{
+  "flags": {
+    "RF_CODE_REQUEST": "Expeditorul îi cere cititorului să-i trimită sau să-i citească un cod primit prin SMS.",
+    "RF_REMOTE_ACCESS": "Expeditorul îi cere cititorului să instaleze un program de control de la distanță.",
+    "RF_DATA_REQUEST": "Expeditorul îi cere cititorului datele cardului, parola, PIN-ul sau CNP-ul.",
+    "RF_PAYMENT_REQUEST": "Expeditorul îi cere cititorului să plătească sau să transfere bani.",
+    "RF_SUSPICIOUS_CONTACT": "",
+    "RF_NEW_NUMBER": "Expeditorul spune că este o rudă care are un număr de telefon nou.",
+    "RF_SECRECY": "Expeditorul îi cere cititorului să nu spună nimănui.",
+    "RF_TOO_GOOD": "Expeditorul îi promite cititorului un premiu, un câștig sau bani.",
+    "RF_IMPERSONATION": "Expeditorul pretinde că vine de la o bancă, o firmă sau o instituție.",
+    "RF_URGENCY": "Expeditorul îi cere cititorului să acționeze urgent.",
+    "RF_THREAT": "Expeditorul îl amenință pe cititor cu blocarea contului, o amendă sau un virus.",
+    "RF_EMOTIONAL_PRESSURE": "Expeditorul folosește frica, mila sau panica pentru a-l convinge pe cititor.",
+    "RF_CHANNEL_SWITCH": "Expeditorul îi cere cititorului să continue discuția în altă aplicație."
+  },
+  "types": {
+    "BANK_IMPERSONATION": "Mesajul pretinde că vine de la bancă.",
+    "COURIER_FEE": "Mesajul este despre un colet și o taxă de livrare.",
+    "AUTHORITY_IMPERSONATION": "Mesajul pretinde că vine de la o instituție a statului.",
+    "FAMILY_EMERGENCY": "Mesajul vine de la o rudă care cere bani urgent.",
+    "TECH_SUPPORT": "Mesajul pretinde că vine de la suportul tehnic pentru calculator.",
+    "MARKETPLACE": "Mesajul vine de la un cumpărător de pe un site de anunțuri.",
+    "ACCOUNT_TAKEOVER": "Mesajul cere înapoi un cod trimis din greșeală.",
+    "INVESTMENT": "Mesajul promite profit dintr-o investiție.",
+    "ROMANCE": "Mesajul vine de la o persoană care își arată dragostea și cere bani.",
+    "JOB_OFFER": "Mesajul oferă un loc de muncă sau bani pentru sarcini simple.",
+    "PRIZE_LOTTERY": "Mesajul anunță un premiu sau un câștig la tombolă.",
+    "OTHER": ""
+  }
+}

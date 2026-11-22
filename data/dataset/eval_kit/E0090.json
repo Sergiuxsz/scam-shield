@@ -1,0 +1,41 @@
+{
+  "id": "E0090",
+  "channel": "email",
+  "sender": {
+    "name": "Echipa Suport Clienți",
+    "address": "info@donatii-verificare.site",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bătrâna din imagine nu are ce mânca de trei zile. Contribuiți aici: https://donatii-verificare.site/formular"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Ce e asta?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Continuăm pe Telegram, e mai simplu. Toate cele bune."
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Stați puțin."
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "Ultima notificare: azi expiră."
+    },
+    {
+      "n": 6,
+      "from": "reader",
+      "text": "Nu am cert nimic."
+    }
+  ]
+}

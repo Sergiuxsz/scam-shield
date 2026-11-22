@@ -1,0 +1,31 @@
+{
+  "id": "E0177",
+  "channel": "email",
+  "sender": {
+    "name": "Microsoft Notificări",
+    "address": "office@microsoft-notificari.online",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Microsoft: Licenta expira azi. Unele date pot fi pierdute."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "De unde aveti nmarul meu? 😅"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Ultima notificare: azi expira."
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Ce e asta?"
+    }
+  ]
+}

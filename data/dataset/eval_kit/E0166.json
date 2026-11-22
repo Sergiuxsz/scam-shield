@@ -1,0 +1,16 @@
+{
+  "id": "E0166",
+  "channel": "sms",
+  "sender": {
+    "name": "ANAF",
+    "address": "ANAF",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună ziua, ANAF Rambursări: suma de 1.920 lei urmează să vă fie restituită. Nu este necesară nicio acțiune. Detalii pe anaf.ro. Respectuos, departamentul relații clienți."
+    }
+  ]
+}

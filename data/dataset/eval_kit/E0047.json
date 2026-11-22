@@ -1,0 +1,56 @@
+{
+  "id": "E0047",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 120",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "bună, sunteți interesat de un venit extra? seară frumoasă!"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "ce trebuie să fac?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "mulți studenți fac asta. 😘"
+    },
+    {
+      "n": 4,
+      "from": "sender",
+      "text": "plătim 210 lei pe zi pentru 1 oră de lucru."
+    },
+    {
+      "n": 5,
+      "from": "reader",
+      "text": "e legal?"
+    },
+    {
+      "n": 6,
+      "from": "sender",
+      "text": "intrați în grupul nostru de telegram pentru sarcini."
+    },
+    {
+      "n": 7,
+      "from": "reader",
+      "text": "ok."
+    },
+    {
+      "n": 8,
+      "from": "sender",
+      "text": "instalați aplicația de pe carieraplus.ro.plata-ro.online, ca să vă urmărim progresul."
+    },
+    {
+      "n": 9,
+      "from": "reader",
+      "text": "trebuie să plătesc ceva? ❤️"
+    }
+  ]
+}

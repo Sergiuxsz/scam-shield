@@ -1,0 +1,13 @@
+# Detector + training. Python 3.11+ (tomllib is in the standard library).
+#
+# Install torch FIRST, matching your GPU (or CPU), then the rest:
+#   pip install torch --index-url https://download.pytorch.org/whl/cu128    # NVIDIA, CUDA 12.8 (RTX 50-series)
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu      # CPU only
+#   pip install -r requirements.txt
+transformers>=4.45
+sentencepiece
+protobuf
+
+# Optional: the Streamlit developer GUI (ui/streamlit/app.py)
+streamlit
+pandas

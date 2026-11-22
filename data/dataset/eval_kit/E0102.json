@@ -1,0 +1,31 @@
+{
+  "id": "E0102",
+  "channel": "call_transcript",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 286",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună ziua, mă numesc Roxana Moldovan și sunt consilier la Banca Arieș."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Da, sunt clientă la dvs."
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Vedeți ultimele tranzacții în aplicație? Contul dvs. a fost compromis, iar un credit de 1.620 lei a fost cerut pe numele dvs."
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Verific și revin."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "E0202",
+  "channel": "sms",
+  "sender": {
+    "name": "EnergiaPlus",
+    "address": "EnergiaPlus",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună ziua! EnergiaPlus: Ai consumat 80% din traficul de date inclus. Pentru mai multe informații, consultați termenii și condițiile. Program: luni-vineri, 9:00-18:00. Echipa noastră vă stă la dispoziție."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "E0133",
+  "channel": "chat",
+  "sender": {
+    "name": "Laura, 50",
+    "address": "laura1",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Salut, pari o persoana foarte calda."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Buna! Mersi."
+    },
+    {
+      "n": 3,
+      "from": "reader",
+      "text": "Si eu ma gandesc la tine."
+    },
+    {
+      "n": 4,
+      "from": "sender",
+      "text": "Buna! Esti singurul meu sprijin acu. Pupici!"
+    },
+    {
+      "n": 5,
+      "from": "reader",
+      "text": "Mi-e dor de tine."
+    },
+    {
+      "n": 6,
+      "from": "sender",
+      "text": "Am un pachet cu bijuterii si 11.000 euro pt noi, dar trebuie platita vama de 2.200 lei."
+    },
+    {
+      "n": 7,
+      "from": "reader",
+      "text": "Ok, iti trimit."
+    },
+    {
+      "n": 8,
+      "from": "sender",
+      "text": "Nu le spune prietenelor, sunt invidioase."
+    },
+    {
+      "n": 9,
+      "from": "sender",
+      "text": "Pana maine trebuie platit."
+    }
+  ]
+}

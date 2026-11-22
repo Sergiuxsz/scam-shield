@@ -1,0 +1,16 @@
+{
+  "id": "E0248",
+  "channel": "whatsapp",
+  "sender": {
+    "name": "Mădălina",
+    "address": "+40 7xx xxx 336",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Poți să-mi plătești tu o factură de 3.580 lei? Ți-i dau diseară. Acum, te rog! Doar tu mă poți ajuta acum, te implor."
+    }
+  ]
+}

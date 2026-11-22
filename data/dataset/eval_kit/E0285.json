@@ -1,0 +1,16 @@
+{
+  "id": "E0285",
+  "channel": "sms",
+  "sender": {
+    "name": "FondulTau",
+    "address": "FondulTau",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună ziua, Ședința cu consultantul tău e confirmată pentru 02.05, la sediu. Seară frumoasă! Aștept răspunsul dvs."
+    }
+  ]
+}

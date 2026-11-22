@@ -1,0 +1,16 @@
+{
+  "id": "E0106",
+  "channel": "email",
+  "sender": {
+    "name": "CryptoRo Invest",
+    "address": "noreply@cryptoroinvest-online.live",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "CryptoRo Invest - investitii sigure: Nu ratati: 10.500 lei pe luna, venit pasiv. Accesati https://cryptoroinvest-online.live"
+    }
+  ]
+}

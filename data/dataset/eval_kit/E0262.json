@@ -1,0 +1,16 @@
+{
+  "id": "E0262",
+  "channel": "sms",
+  "sender": {
+    "name": "ANAF",
+    "address": "ANAF",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "ANAF - Spatiul Privat Virtual: suma de 3.350 lei urmeaza sa va fie restituita. Nu este necesara nicio actiune. Detalii pe https://anaf.ro/contact."
+    }
+  ]
+}

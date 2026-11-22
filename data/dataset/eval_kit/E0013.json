@@ -1,0 +1,21 @@
+{
+  "id": "E0013",
+  "channel": "email",
+  "sender": {
+    "name": "ANAF Suport",
+    "address": "noreply@anaf.ro",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Stimate contribuabil, suma de 1.340 lei urmeaza sa va fie restituita. Nu este necesara nicio actiune. Detalii pe anaf.ro. Multumesc frumos."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "ce e asta?"
+    }
+  ]
+}

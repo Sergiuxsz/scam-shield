@@ -1,0 +1,46 @@
+{
+  "id": "E0081",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 489",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună ziua, sunt managerul dvs. de cont la CrypptoRo Invest. 😊"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Da, spuneți."
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Aveți contul activ, doar că e gol. Seară frumoasă!"
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Ok, interesant."
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "Cu 250 lei pteți face 4.000 lei într-o lună. 🙂"
+    },
+    {
+      "n": 6,
+      "from": "reader",
+      "text": "Ok, interesant."
+    },
+    {
+      "n": 7,
+      "from": "sender",
+      "text": "Vă vine un cod de la bancă, mi-l spueți ca să validez depunerea. Mâine prețul crește. ❤️"
+    }
+  ]
+}

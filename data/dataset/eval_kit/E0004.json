@@ -1,0 +1,16 @@
+{
+  "id": "E0004",
+  "channel": "whatsapp",
+  "sender": {
+    "name": "Ionuț (serviciu)",
+    "address": "+40 7xx xxx 905",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Hei, esti pe aici? Ti-a venit un cod de 6 cifre? Zi-mi-l, te rog. Acum, te rog! Abia astept sa ne vedem."
+    }
+  ]
+}

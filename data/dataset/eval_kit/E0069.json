@@ -1,0 +1,36 @@
+{
+  "id": "E0069",
+  "channel": "chat",
+  "sender": {
+    "name": "Laura, 50",
+    "address": "laura1",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Salut, pari o persoana foarte calda."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Buna! Mersi."
+    },
+    {
+      "n": 3,
+      "from": "reader",
+      "text": "Si eu ma gandesc la tine."
+    },
+    {
+      "n": 4,
+      "from": "sender",
+      "text": "Buna! Esti singurul meu sprijin acu. Pupici!"
+    },
+    {
+      "n": 5,
+      "from": "reader",
+      "text": "Mi-e dor de tine."
+    }
+  ]
+}

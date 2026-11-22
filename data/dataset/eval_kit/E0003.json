@@ -1,0 +1,16 @@
+{
+  "id": "E0003",
+  "channel": "sms",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 769",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "ANAF - Spatiul Privat Virtual: suma de 3.350 lei urmeaza sa va fie restituita. Pentru incasare, confirmati datele bancare pe anaf.ro.dosar-online.click/client"
+    }
+  ]
+}

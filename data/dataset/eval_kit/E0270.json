@@ -1,0 +1,41 @@
+{
+  "id": "E0270",
+  "channel": "email",
+  "sender": {
+    "name": "Alexandra (colega)",
+    "address": "alexandra.moldovan@yahoo.com",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Hei! Trebuie să-ți zic ceva. Să ai o zi frumoasă!"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Bună ziua, ascult."
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Am pus 1.000 lei și acum am 14.000."
+    },
+    {
+      "n": 4,
+      "from": "sender",
+      "text": "Intră pe cryptoroinvest-cont.site/formular cu codul meu de invitație."
+    },
+    {
+      "n": 5,
+      "from": "reader",
+      "text": "Nu sunt sigur... 😢"
+    },
+    {
+      "n": 6,
+      "from": "sender",
+      "text": "Grăbește-te, se închid înscrierile diseară. ❤️"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "E0068",
+  "channel": "sms",
+  "sender": {
+    "name": "PostaRo",
+    "address": "PostaRo",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "PoştaRo - Coletul dvs.: Livrarea coletului 84009446 a eşuat. Urmăriţi coletul pe p0staro.ro/plata Aştept răspunsul dvs."
+    }
+  ]
+}

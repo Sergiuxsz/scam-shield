@@ -1,0 +1,16 @@
+{
+  "id": "E0129",
+  "channel": "sms",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 633",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Alerta de securitate Microsoft: Datele dvs. bancare sunt expuse. Detalii pe microsoft.click Multumesc!"
+    }
+  ]
+}

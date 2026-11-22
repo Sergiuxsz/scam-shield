@@ -1,0 +1,51 @@
+{
+  "id": "E0064",
+  "channel": "chat",
+  "sender": {
+    "name": "Proprietar PiațaMea",
+    "address": "seller_48380",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună ziua, da, se poate închiria de la 1 ale lunii. Seară frumoasă! 😢"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Ok, ce preț are?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Sunt plecat în Germania cu serviciul. E un preț foarte mic pentru zonă, știu, vreau doar oameni de încredere."
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Ok."
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "Scrieți-mi pe e-mail, nu intru pe site."
+    },
+    {
+      "n": 6,
+      "from": "sender",
+      "text": "Plătiți prima chirie în contul RO80DLST 9868 9672 6016 9496 și vă trimit contractul. 🙂"
+    },
+    {
+      "n": 7,
+      "from": "reader",
+      "text": "Ok. 😊"
+    },
+    {
+      "n": 8,
+      "from": "sender",
+      "text": "Mai sunt doi interesați, decideți azi. 🙂"
+    }
+  ]
+}

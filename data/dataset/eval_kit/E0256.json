@@ -1,0 +1,36 @@
+{
+  "id": "E0256",
+  "channel": "chat",
+  "sender": {
+    "name": "Recrutare CarieraPlus",
+    "address": "hr_7189",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună ziua, vă contactez în legătură cu aplicarea dvs. Aștept răspunsul dvs. Mulțumesc!"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Bună ziua, da."
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Avem două etape de selecție."
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Ok, perfect."
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "Ne revedem la interviu; vă rog să aduceți diplomele în original."
+    }
+  ]
+}

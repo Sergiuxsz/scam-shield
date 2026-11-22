@@ -1,0 +1,21 @@
+{
+  "id": "E0089",
+  "channel": "whatsapp",
+  "sender": {
+    "name": "Tata",
+    "address": "+40 7xx xxx 385",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Hei, ce faci?"
+    },
+    {
+      "n": 2,
+      "from": "sender",
+      "text": "Mi s-a spart contul de Facebook, dacă primești mesaje de la mine, ignoră-le! Pupici! Ai grijă de tine. Pupici!"
+    }
+  ]
+}

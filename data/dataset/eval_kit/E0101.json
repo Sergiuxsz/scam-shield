@@ -1,0 +1,31 @@
+{
+  "id": "E0101",
+  "channel": "sms",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 503",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună tati, am număr nou. Când poti, îmi trimiți 2.580 lei? Nu e grabă."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Ultima notificare: azi expiră."
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Stați puțin."
+    }
+  ]
+}

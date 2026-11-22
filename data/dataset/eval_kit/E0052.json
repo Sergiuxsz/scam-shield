@@ -1,0 +1,16 @@
+{
+  "id": "E0052",
+  "channel": "email",
+  "sender": {
+    "name": "Microsoft",
+    "address": "office@microsoft-online.site",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Alertă de securitate Microsoft: Datele dvs. bancare sunt expuse. Pentru anulare, sunați la 0755 786 949."
+    }
+  ]
+}

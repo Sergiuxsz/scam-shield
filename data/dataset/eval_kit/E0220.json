@@ -1,0 +1,41 @@
+{
+  "id": "E0220",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 442",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "bună ziua, sunt maria munteanu de la tehnomax. aveți un minut?"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "da?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "ați fost foarte norocos."
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "nu-mi vine să cred!"
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "ați primit un voucher de 3.200 lei."
+    },
+    {
+      "n": 6,
+      "from": "sender",
+      "text": "trebuie doar să achitați taxa de rezervare de 22,81 lei."
+    }
+  ]
+}

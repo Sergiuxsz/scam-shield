@@ -1,0 +1,16 @@
+{
+  "id": "E0048",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 737",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Buna mami, nu mai folosesc numarul vechi, scrie-mi pe Telegram."
+    }
+  ]
+}

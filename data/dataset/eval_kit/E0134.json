@@ -1,0 +1,16 @@
+{
+  "id": "E0134",
+  "channel": "email",
+  "sender": {
+    "name": "JobRapid Cariere",
+    "address": "admin@jobrapid-online.top",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Căutăm șoferi în Danemarca, 3.500 euro net, plecare săptămâna viitoare. Completați datele cardului pentru viramente. Păstrați discreția, e un job confidențial."
+    }
+  ]
+}

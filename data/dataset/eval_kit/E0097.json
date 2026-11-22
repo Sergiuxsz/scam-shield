@@ -1,0 +1,16 @@
+{
+  "id": "E0097",
+  "channel": "email",
+  "sender": {
+    "name": "Microsoft",
+    "address": "info@microsoft-online.xyz",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Alertă de securitate Microsoft: Aveți un tichet de suport deschis. Detalii pe https://bit.ly/VzU53"
+    }
+  ]
+}

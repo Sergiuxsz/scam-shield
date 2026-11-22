@@ -1,0 +1,26 @@
+{
+  "id": "E0039",
+  "channel": "email",
+  "sender": {
+    "name": "Mihai (serviciu)",
+    "address": "mihai.dumitru@yahoo.com",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Salut! Ai un minut? Ai grijă de tine. Aici plouă de azi-dimineață, tu ce faci? Ne vedem în weekend, sper."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Da, zi."
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Mi s-a spart contul de Facebook, dacă primești mesaje de la mine, ignoră-le!"
+    }
+  ]
+}

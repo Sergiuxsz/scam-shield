@@ -1,0 +1,21 @@
+{
+  "id": "E0140",
+  "channel": "call_transcript",
+  "sender": {
+    "name": null,
+    "address": "+40 3xx xxx 315",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună ziua, vă contactăm de la Poliția Română, e o anchetă în curs."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "da, ce s-a întâmplat?"
+    }
+  ]
+}

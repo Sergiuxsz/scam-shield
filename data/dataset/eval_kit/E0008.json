@@ -1,0 +1,51 @@
+{
+  "id": "E0008",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 391",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "salut mama, mi-am schimbat numarul, asta e acum."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "buna puiule!"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "pai eu, florin 😅"
+    },
+    {
+      "n": 4,
+      "from": "sender",
+      "text": "eu sunt, florin! spune-mi cand poti."
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "toate bune pe acolo?"
+    },
+    {
+      "n": 6,
+      "from": "reader",
+      "text": "da, sunt acasa."
+    },
+    {
+      "n": 7,
+      "from": "sender",
+      "text": "plateste-mi te rog o factura de 1.250 lei, iti trimit detaliile. scrie la detalii «imprumut»."
+    },
+    {
+      "n": 8,
+      "from": "reader",
+      "text": "nu, mersi. inchid."
+    }
+  ]
+}

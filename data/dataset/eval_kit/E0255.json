@@ -1,0 +1,41 @@
+{
+  "id": "E0255",
+  "channel": "call_transcript",
+  "sender": {
+    "name": null,
+    "address": "+40 2xx xxx 856",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună ziua, Casa de Pensii aici. Sunteți titularul dosarului nr. 73814659?"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Da, eu sunt."
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Vă confirm că discutați cu instituția."
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Ce date?"
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "Ați primit necuvenit 2.150 lei și trebuie returnați."
+    },
+    {
+      "n": 6,
+      "from": "reader",
+      "text": "Nu, mulțumesc. Închid."
+    }
+  ]
+}

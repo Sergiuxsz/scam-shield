@@ -1,0 +1,29 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Trained models (~1.1 GB; too big for git). See models/README.md.
+models/*
+!models/README.md
+
+# Local runtime files
+.cache/
+*.log
+train_log*.txt
+.streamlit/secrets.toml
+
+# Never commit a jury Test Set or private messages
+data/test_set/
+data/private/
+
+# Desktop pill (Electron)
+ui/desktop/node_modules/
+ui/desktop/dist/
+ui/desktop/out/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

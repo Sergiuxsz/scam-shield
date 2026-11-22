@@ -1,0 +1,46 @@
+{
+  "id": "E0152",
+  "channel": "sms",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 815",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Primiti 50 de lei pentru fiecare recenzie scrisa."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "si cum se plateste?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Intrati in grupul nostru de Telegram pentru sarcini."
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "suna bine."
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "Va vine un cod de verificare pe SMS pentru contul de lucru, mi-l trimiteti?"
+    },
+    {
+      "n": 6,
+      "from": "reader",
+      "text": "nu dau buletinul."
+    },
+    {
+      "n": 7,
+      "from": "sender",
+      "text": "Stimate client, Oferta expira diseara. Respectuos, departamentul relatii clienti."
+    }
+  ]
+}

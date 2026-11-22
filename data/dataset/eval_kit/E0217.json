@@ -1,0 +1,41 @@
+{
+  "id": "E0217",
+  "channel": "chat",
+  "sender": {
+    "name": "Cumpărător PiațaMea",
+    "address": "seller_29679",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "buna ziua, e disponibil produsul din anunt?"
+    },
+    {
+      "n": 2,
+      "from": "sender",
+      "text": "e in stare buna?"
+    },
+    {
+      "n": 3,
+      "from": "reader",
+      "text": "pretul e fix."
+    },
+    {
+      "n": 4,
+      "from": "sender",
+      "text": "va vine un cod de la livrare sigura; introduceti-l pe piatamea-tranzactie.info ca sa finalizam."
+    },
+    {
+      "n": 5,
+      "from": "reader",
+      "text": "pe ce site?"
+    },
+    {
+      "n": 6,
+      "from": "sender",
+      "text": "linkul e valabil doar azi."
+    }
+  ]
+}

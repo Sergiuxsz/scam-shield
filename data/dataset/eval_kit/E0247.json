@@ -1,0 +1,16 @@
+{
+  "id": "E0247",
+  "channel": "email",
+  "sender": {
+    "name": "Banca Dunărea",
+    "address": "noreply@bancadunarea.ro",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Departamentul de securitate Banca Dunărea: S-a efectuat o autentificare reușită în Dunărea Mobile. Detalii la 0800 100 200 sau pe https://bancadunarea.ro/contact."
+    }
+  ]
+}

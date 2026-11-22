@@ -1,0 +1,31 @@
+{
+  "id": "E0196",
+  "channel": "sms",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 669",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Salut, sunt Matei de pe alt număr. Poţi să-mi plăteşti o factură de 1.490 lei când ai timp? Aici plouă de azi-dimineaţă, tu ce faci?"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Ce trebuie să fac?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Revin cu rugămintea de mai sus."
+    },
+    {
+      "n": 4,
+      "from": "sender",
+      "text": "Ultima notificare: azi expiră."
+    }
+  ]
+}

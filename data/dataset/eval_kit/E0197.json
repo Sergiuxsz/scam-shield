@@ -1,0 +1,16 @@
+{
+  "id": "E0197",
+  "channel": "whatsapp",
+  "sender": {
+    "name": "Matei (serviciu)",
+    "address": "+40 7xx xxx 241",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Super ofertă de la TehnoMax: laptop gratis pentru primii 500. Trimite mesajul la 10 prieteni ca să-l primești!"
+    }
+  ]
+}

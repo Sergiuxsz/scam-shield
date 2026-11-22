@@ -1,0 +1,46 @@
+{
+  "id": "E0181",
+  "channel": "call_transcript",
+  "sender": {
+    "name": null,
+    "address": "+39 4xx xxx 870",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Buna ziua, sunt managerul dvs. de cont la Fondul Energetic National."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Da, spuneti."
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Aveti contul activ, doar ca e gol."
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Ok, interesant."
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "Avem o oferta exclusiva: randament 19% fara risc."
+    },
+    {
+      "n": 6,
+      "from": "sender",
+      "text": "Instalati TeamViewer QuickSupport; fac eu depunerea de 500 lei, dumneavoastra doar confirmati."
+    },
+    {
+      "n": 7,
+      "from": "reader",
+      "text": "Il intreb intai pe fiul meu."
+    }
+  ]
+}

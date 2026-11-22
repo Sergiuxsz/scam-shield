@@ -1,0 +1,16 @@
+{
+  "id": "E0186",
+  "channel": "whatsapp",
+  "sender": {
+    "name": "Ioana (soră)",
+    "address": "+40 7xx xxx 743",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună seara! Am pus 250 lei și acu am 11.500. Intră în grupul de Telegram, acolo dau semnalele. Grăbește-te, se închid înscirerile diseară. Salută-i pe toți de la mine."
+    }
+  ]
+}

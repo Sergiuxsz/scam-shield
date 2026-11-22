@@ -1,0 +1,16 @@
+{
+  "id": "E0146",
+  "channel": "sms",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 256",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Salut mamă, mi-am schimbat numărul, ăsta e acum. Ce să aduc duminică? Scrie la detalii «împrumut»."
+    }
+  ]
+}

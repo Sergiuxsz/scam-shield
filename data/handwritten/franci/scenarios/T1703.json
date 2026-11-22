@@ -1,0 +1,31 @@
+{
+  "id": "T1703",
+  "channel": "whatsapp",
+  "sender": {
+    "name": "Ana",
+    "address": "+40 7xx xxx 789",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Nu uita sa imi trimiti lectia de la facultate pentru maine, te rog"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Da, nu uit, iti trimit putin mai tarziu"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Super, mersi mult"
+    },
+    {
+      "n": 4,
+      "from": "sender",
+      "text": "Auzi ma poti ajuta si pe mine cu o chestie? Am ramas fara bani si nu pot sa le cer iar alor mei...ma poti imprumuta cu 200 de lei pana saptamana viitoare?"
+    }
+  ]
+}

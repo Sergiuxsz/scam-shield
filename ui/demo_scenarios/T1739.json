@@ -1,0 +1,26 @@
+{
+  "id": "T1739",
+  "channel": "email",
+  "sender": {
+    "name": "Andrei",
+    "address": "andrei.popescu@firma-noastra.ro",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună ziua, scuze că te întrerup pe final de program. Am pus build-ul de test pe drive-ul intern înainte de demo-ul de mâine: https://drive.firma-noastra.ro/build-staging-v4.zip"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Saluut, de ce nu e pe repo-ul obișnuit?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Heeey, scuze, pipeline-ul de CI a picat și am vrut să-l ai gata dacă vrei să te uiți azi, dar nu e nimic obligatoriu de rulat acum. Îl urc și pe branch mâine dimineață."
+    }
+  ]
+}

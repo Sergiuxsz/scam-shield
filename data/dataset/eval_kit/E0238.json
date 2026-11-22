@@ -1,0 +1,26 @@
+{
+  "id": "E0238",
+  "channel": "email",
+  "sender": {
+    "name": "Nașa Mădălina",
+    "address": "nasa.matei@yahoo.com",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună! Am o întrebare. Pupici! Mesi mult!"
+    },
+    {
+      "n": 2,
+      "from": "sender",
+      "text": "Mi-ai lăsat ubmrela la mine, ți-o aduc mâine."
+    },
+    {
+      "n": 3,
+      "from": "reader",
+      "text": "Ok"
+    }
+  ]
+}

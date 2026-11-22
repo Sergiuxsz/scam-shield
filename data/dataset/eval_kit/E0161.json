@@ -1,0 +1,26 @@
+{
+  "id": "E0161",
+  "channel": "sms",
+  "sender": {
+    "name": "Roxana (colega)",
+    "address": "+40 7xx xxx 162",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Super ofertă de la TehnoMax: voucher de 1.000 lei gratis pentru primii 500. Pune doar datele cardului pentru taxa de 1 leu: concurs-rapid.net"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Ce trebuie să fac?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Revin cu rugămintea de mai sus."
+    }
+  ]
+}

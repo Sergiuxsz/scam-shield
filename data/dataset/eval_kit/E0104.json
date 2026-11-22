@@ -1,0 +1,46 @@
+{
+  "id": "E0104",
+  "channel": "chat",
+  "sender": {
+    "name": "Sofia, 53",
+    "address": "sofia269",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună, mi-a plăcut profilul tău. ❤️"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Bine, tu?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Ți-am trimis o poză cu apusul de aici. Abia așteppt să ne vedem. 😢"
+    },
+    {
+      "n": 4,
+      "from": "sender",
+      "text": "Ești foarte specială pentru mine. ❤️"
+    },
+    {
+      "n": 5,
+      "from": "reader",
+      "text": "Aha"
+    },
+    {
+      "n": 6,
+      "from": "sender",
+      "text": "Scrie-mi pe WhatsApp. Și dacă poți, trimite-mi 4.630 lei petru internet aici."
+    },
+    {
+      "n": 7,
+      "from": "reader",
+      "text": "Hm."
+    }
+  ]
+}

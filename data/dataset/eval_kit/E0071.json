@@ -1,0 +1,16 @@
+{
+  "id": "E0071",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 866",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "buna! am numar nou, salveaza-ma: mihai. am pus numarul tau ca sa-mi recuperez contul, ti-a venit un cod. mi-l scrii? azi trebuie, altfel e prea tarziu."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "E0214",
+  "channel": "call_transcript",
+  "sender": {
+    "name": null,
+    "address": "+40 3xx xxx 799",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună ziua, CNAS aici. Sunteți titularul dosarului nr. 29580396?"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Bună ziua, ce s-a întâmplat?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Ați fost selectată pentru o compensație de 2.040 lei."
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Veific și revin."
+    }
+  ]
+}

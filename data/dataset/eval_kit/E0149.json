@@ -1,0 +1,16 @@
+{
+  "id": "E0149",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 188",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "salut bunico, mi-am schimbat numarul, asta e acum. treebuie sa achit pana la 10:00 o factua de 870 lei si nu am accse la cont. ma ajuti? scrie la detalii «imprumut». cat mai repede, te rog! pupici!"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "E0283",
+  "channel": "chat",
+  "sender": {
+    "name": "Vânzător PiațaMea",
+    "address": "seller_32158",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună seara, Da, încă e. Am mai mulți interesați. Mulțumecs frumos."
+    },
+    {
+      "n": 2,
+      "from": "sender",
+      "text": "Prețul e 1.500 lei, negociabil puțin."
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Hai să vorbim pe WhatsApp, aici nu intru des."
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Arrată bine."
+    }
+  ]
+}

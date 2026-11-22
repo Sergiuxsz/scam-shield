@@ -1,0 +1,16 @@
+{
+  "id": "E0094",
+  "channel": "sms",
+  "sender": {
+    "name": "BancaDunarea",
+    "address": "BancaDunarea",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Important - Banca Dunărea: Versiunea actuală a aplicației va fi dezactivată. Instalați aplicația de verificare: bancadunarea.top și permiteți accesul la ecran. Linkul este valabil doar 24 ore."
+    }
+  ]
+}

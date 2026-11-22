@@ -1,0 +1,41 @@
+{
+  "id": "E0222",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 567",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Buna ziua, TehnoMax aici. Ati cumparat recennt de la noi? Multumesc frumos."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Buna ziua, spuneti."
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Ati participat la campania noastra de vara, automat."
+    },
+    {
+      "n": 4,
+      "from": "sender",
+      "text": "Ati fost fooarte norocos."
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "Ati primit un vouccher de 4.080 lei."
+    },
+    {
+      "n": 6,
+      "from": "sender",
+      "text": "Imi confiramti datele cardului pentru taxa de transport?"
+    }
+  ]
+}

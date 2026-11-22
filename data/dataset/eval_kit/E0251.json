@@ -1,0 +1,36 @@
+{
+  "id": "E0251",
+  "channel": "chat",
+  "sender": {
+    "name": "Vânzător PiațaMea",
+    "address": "client_21424",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună ziua, da, căruciorul e disponibilă. Aștept răspunsul dvs."
+    },
+    {
+      "n": 2,
+      "from": "sender",
+      "text": "E practic nouă, folosită de două ori."
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Scrieți-mi direcct pe WhatsApp la 0764 840 961."
+    },
+    {
+      "n": 4,
+      "from": "sender",
+      "text": "Plătiți prin transfer și v-o trimit azi."
+    },
+    {
+      "n": 5,
+      "from": "reader",
+      "text": "Nu, mulțumesc. Închid."
+    }
+  ]
+}

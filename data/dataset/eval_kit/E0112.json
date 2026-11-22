@@ -1,0 +1,46 @@
+{
+  "id": "E0112",
+  "channel": "call_transcript",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 616",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună ziua, TelNova aici. Cartela dvs. trebuie actualizată."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Da."
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Vă trimitem un mesaj automat."
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Bine."
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "Pentru activarea eSIM-ului, citiți-mi codul primit prin SMS."
+    },
+    {
+      "n": 6,
+      "from": "reader",
+      "text": "Stați să văd mesajul."
+    },
+    {
+      "n": 7,
+      "from": "sender",
+      "text": "Dacă nu facem acum, pierdeți numărul."
+    }
+  ]
+}

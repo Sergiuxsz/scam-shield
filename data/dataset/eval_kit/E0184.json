@@ -1,0 +1,41 @@
+{
+  "id": "E0184",
+  "channel": "chat",
+  "sender": {
+    "name": "Vânzător VindeRapid",
+    "address": "seller_82722",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Da, încă e. Am mai muulți interesați."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Pot veni s-o văd?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Continuăm pe Telegram, vă rog."
+    },
+    {
+      "n": 4,
+      "from": "sender",
+      "text": "Plătiți prin linkul de curier: vinderepid.ro"
+    },
+    {
+      "n": 5,
+      "from": "reader",
+      "text": "Nu pot plăti în avans."
+    },
+    {
+      "n": 6,
+      "from": "sender",
+      "text": "Am neevoie de răspuns în următoarea oră. O zi bună!"
+    }
+  ]
+}

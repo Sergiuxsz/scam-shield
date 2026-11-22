@@ -1,0 +1,26 @@
+{
+  "id": "E0075",
+  "channel": "whatsapp",
+  "sender": {
+    "name": "Alexandru (soră)",
+    "address": "+40 7xx xxx 157",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună mami!"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Salut! 👍"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Nu-i zice lui Alexandru că venim, vrem să-l surprindem. Spune-mi când poți. Mersi mult!"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "E0259",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 416",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Instagram: Cineva incearca sa va acceseze contul. Raspundeti cu codul primit ca sa va pastrati contul. Astept raspunsul dvs."
+    }
+  ]
+}

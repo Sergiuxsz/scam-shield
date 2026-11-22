@@ -1,0 +1,16 @@
+{
+  "id": "E0139",
+  "channel": "sms",
+  "sender": {
+    "name": "Alexandra Constantin",
+    "address": "+40 7xx xxx 773",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună seara! Am pus numărul tău la verificare, ți-a venit un cod. Mi-l scrii? te rog, sunt disperată, altfel îmi pierd contul cu toate pozele copilului. Aici plouă de azi-dimineață, tu ce faci?"
+    }
+  ]
+}

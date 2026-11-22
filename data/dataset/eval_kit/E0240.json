@@ -1,0 +1,16 @@
+{
+  "id": "E0240",
+  "channel": "sms",
+  "sender": {
+    "name": "CurierExpres",
+    "address": "CurierExpres",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "CurierExpres: Coletul tău e în livrare. Pentru reprogramare, sunați la 0800 300 400. Cu stimă, echipa CurierExpres."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "E0044",
+  "channel": "sms",
+  "sender": {
+    "name": "Mama",
+    "address": "+40 7xx xxx 998",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "nu stiu sa instalez imprimanta, vii tu sambata? pupici! sper ca esti bine."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "ok"
+    }
+  ]
+}

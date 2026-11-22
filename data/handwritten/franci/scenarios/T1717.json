@@ -1,0 +1,26 @@
+{
+  "id": "T1717",
+  "channel": "call_transcript",
+  "sender": {
+    "name": "Allianz-Tiriac Asigurari",
+    "address": "+40 2xx xxx 100",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună ziua! Numele meu este Ioana Radu și vă sun din partea Allianz-Țiriac Asigurări, Departamentul Relații Clienți Sănătate. Vă contactez în legătură cu solicitarea de programare medicală pe care ați înregistrat-o astăzi în aplicația noastră. Aveți câteva minute disponibile?"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Bună ziua, da, am făcut o cerere pentru un consult cardiologic."
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Exact. Pentru a vă putea confirma identitatea conform procedurilor GDPR și a finaliza programarea la clinica parteneră, vă rog să îmi confirmați data dumneavoastră de naștere și adresa de email asociată poliței de asigurare."
+    }
+  ]
+}

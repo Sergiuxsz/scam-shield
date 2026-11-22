@@ -1,0 +1,21 @@
+{
+  "id": "T1732",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 318",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Hey, scuze ca te deranjez\nSunt Sergiu si iti scriu dupa alt telefon pentru ca mi l-am pierdut recent, cred ca mi-a fost furat.\nPoti sa imi trimiti si mie niste bani sa mi-l inlocuiesc? Cred ca in jur de 500 lei"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Cine e?"
+    }
+  ]
+}

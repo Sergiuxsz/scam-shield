@@ -1,0 +1,36 @@
+{
+  "id": "E0224",
+  "channel": "sms",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 141",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună, am trecut la alt operator și am număr nou. Pupici! Te pup! Te pup! Aici plouă de azi-dimineață, tu ce faci?"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Ok, l-am salvat."
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Ți-am trimis și pe mail pozele."
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Bine, puiule."
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "Am ajuns acasă, totul e bine."
+    }
+  ]
+}

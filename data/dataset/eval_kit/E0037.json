@@ -1,0 +1,16 @@
+{
+  "id": "E0037",
+  "channel": "email",
+  "sender": {
+    "name": "Cristina (colega)",
+    "address": "cristina.popescu@outlook.com",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Hei, ce faci? Am primit amneda de parcare, am platit-o la ghiseu. Sper ca esti bine. Ai grija de tine."
+    }
+  ]
+}

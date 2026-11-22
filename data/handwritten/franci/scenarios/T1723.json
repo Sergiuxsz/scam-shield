@@ -1,0 +1,16 @@
+{
+  "id": "T1723",
+  "channel": "whatsapp",
+  "sender": {
+    "name": "Elena",
+    "address": "+40 7xx xxx 444",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "https://vm.tiktok.com/ZGe8K9mLp/"
+    }
+  ]
+}

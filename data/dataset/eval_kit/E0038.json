@@ -1,0 +1,36 @@
+{
+  "id": "E0038",
+  "channel": "call_transcript",
+  "sender": {
+    "name": null,
+    "address": "+40 3xx xxx 324",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Buna ziua, suport tehnic Orbit Mobil, avem o alerta pe routerul dvs."
+    },
+    {
+      "n": 2,
+      "from": "sender",
+      "text": "Va ajut sa rezolvam de la distanta."
+    },
+    {
+      "n": 3,
+      "from": "reader",
+      "text": "Gata."
+    },
+    {
+      "n": 4,
+      "from": "sender",
+      "text": "Instalati TeamViewer QuickSupport si dati «Accept»."
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "Spuneti-mi codul primit."
+    }
+  ]
+}

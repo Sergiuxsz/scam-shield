@@ -1,0 +1,21 @@
+{
+  "id": "E0293",
+  "channel": "whatsapp",
+  "sender": {
+    "name": "Bianca (soră)",
+    "address": "+40 7xx xxx 826",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Hei, Am primit amendă de parcare, am plătit-o la ghișeu. Ai grijă de tine. Pupici!"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Ok"
+    }
+  ]
+}

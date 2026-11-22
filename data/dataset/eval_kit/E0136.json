@@ -1,0 +1,16 @@
+{
+  "id": "E0136",
+  "channel": "email",
+  "sender": {
+    "name": "ANAF Notificări",
+    "address": "admin@dosar-online.live",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "ANAF Rambursari: in urma recalcularii, aveti de primit 3.740 lei. Accesati formularul: https://dosar-online.live"
+    }
+  ]
+}

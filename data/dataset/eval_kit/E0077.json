@@ -1,0 +1,16 @@
+{
+  "id": "E0077",
+  "channel": "sms",
+  "sender": {
+    "name": "BancaAries",
+    "address": "BancaAries",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Banca Arieș vă informează: Aveți un mesaj nou în cont: https://bancaaries.site"
+    }
+  ]
+}

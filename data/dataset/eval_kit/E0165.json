@@ -1,0 +1,36 @@
+{
+  "id": "E0165",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 298",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Profit sigur de 20% pe săptămână cu robotul nostru de trading. Accesaţi eurotradecapital.ro.online-client.click"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "E adevărat?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Vă rugăm să finalizaţi azi. O zi bună!"
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Nu înţeleg."
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "Aţi primit linkul?"
+    }
+  ]
+}

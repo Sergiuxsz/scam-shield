@@ -1,0 +1,16 @@
+{
+  "id": "E0188",
+  "channel": "sms",
+  "sender": {
+    "name": "MegaShop",
+    "address": "MegaShop",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună ziua! Câștigător confirmat: aspirator robot de la MegaShop. Confirmați câștigul cu codul primit pe telefon. Oferta e valabilă doar azi. Seară frumoasă!"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "E0210",
+  "channel": "chat",
+  "sender": {
+    "name": "Vânzător PiațaMea",
+    "address": "seller_57875",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Da, încă e. Am mai mulți interesați."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Bună, cât costă?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Hai să vorbim pe WhatsApp, aici nu intru des."
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Nu se poate predare personală?"
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "Faceți plata pe piataamea.ro/client, e garanția curierului."
+    }
+  ]
+}

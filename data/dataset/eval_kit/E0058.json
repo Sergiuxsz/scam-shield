@@ -1,0 +1,26 @@
+{
+  "id": "E0058",
+  "channel": "chat",
+  "sender": {
+    "name": "Cumpărător PiațaMea",
+    "address": "seller_29679",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "buna ziua, e disponibil produsul din anunt?"
+    },
+    {
+      "n": 2,
+      "from": "sender",
+      "text": "e in stare buna?"
+    },
+    {
+      "n": 3,
+      "from": "reader",
+      "text": "pretul e fix."
+    }
+  ]
+}

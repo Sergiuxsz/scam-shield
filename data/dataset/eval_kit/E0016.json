@@ -1,0 +1,16 @@
+{
+  "id": "E0016",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 338",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Căutăm şoferi în Norvegia, 2.500 euro net, plecare săptămâna viitoare. Trimiteţi copie după buletin şi datele contului bancar. Păstraţi discreţia, e un job confidenţial. Mai sunt doar 3 locuri."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "default": {
+    "encoder_alone": 0.95
+  },
+  "per_flag": {
+    "RF_CODE_REQUEST": {
+      "encoder_alone": 0.45
+    },
+    "RF_REMOTE_ACCESS": {
+      "encoder_alone": 0.5
+    },
+    "RF_DATA_REQUEST": {
+      "encoder_alone": 0.35
+    },
+    "RF_PAYMENT_REQUEST": {
+      "encoder_alone": 0.55
+    },
+    "RF_SUSPICIOUS_CONTACT": {
+      "encoder_alone": 0.3
+    },
+    "RF_NEW_NUMBER": {
+      "encoder_alone": 0.5
+    },
+    "RF_SECRECY": {
+      "encoder_alone": 0.7
+    },
+    "RF_TOO_GOOD": {
+      "encoder_alone": 0.25
+    },
+    "RF_IMPERSONATION": {
+      "encoder_alone": 0.45
+    },
+    "RF_URGENCY": {
+      "encoder_alone": 0.4
+    },
+    "RF_THREAT": {
+      "encoder_alone": 0.3
+    },
+    "RF_EMOTIONAL_PRESSURE": {
+      "encoder_alone": 0.5
+    },
+    "RF_CHANNEL_SWITCH": {
+      "encoder_alone": 0.5
+    }
+  },
+  "type_strategy": "model_unless_claim",
+  "rules_only": [
+    "RF_SUSPICIOUS_CONTACT",
+    "RF_NEW_NUMBER"
+  ],
+  "encoder_alone_floor": 0.0,
+  "encoder_alone_needs_support": false
+}

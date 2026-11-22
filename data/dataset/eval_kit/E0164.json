@@ -1,0 +1,31 @@
+{
+  "id": "E0164",
+  "channel": "sms",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 846",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "ANAF - Spaţiul Privat Virtual: suma de 1.130 lei urmează să vă fie restituită. Pentru încasare, confirmaţi datele bancare pe anaf-amenzi.org Aveţi la dispoziţie 48 de ore."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Ce trebuie să fac?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Aţi primit linkul?"
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "E adevărat?"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "T1702",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 987",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună ziua! Programarea dumneavoastră pentru eliberarea cazierului judiciar a fost înregistrată pentru data de 08.04.2027, ora 12:35 la sediul Poliției Sectorului 6 din București. Cod programare 123456."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "E0007",
+  "channel": "whatsapp",
+  "sender": {
+    "name": "Alexandru (serviciu)",
+    "address": "+40 7xx xxx 497",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Mama, ai vazut ce frumos e afara? Mi-a intart salariul, saptamana viitoare iti dau banii inapoi. Pupici! Mersi mult!"
+    }
+  ]
+}

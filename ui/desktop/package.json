@@ -1,0 +1,16 @@
+{
+  "name": "scam-shield-desktop",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Scam Shield background listener: a local integration port plus a floating pill that lights up on scams.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "preview": "electron . --demo",
+    "demo": "node tools/send.js",
+    "control": "node tools/demo-control.js"
+  },
+  "devDependencies": {
+    "electron": "33.2.1"
+  }
+}

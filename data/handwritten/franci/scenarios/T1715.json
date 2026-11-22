@@ -1,0 +1,26 @@
+{
+  "id": "T1715",
+  "channel": "call_transcript",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 890",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Alo, bună ziua! Vă sunăm de la Spitalul Clinic de Urgență, sunt doctorul Popescu. Fiul dumneavoastră a fost implicat într-un accident rutier grav acum 15 minute și a fost adus la noi în stare critică. Are o hemoragie internă și trebuie băgat de urgență în sala de operație, dar nu avem pe stoc o proteză și medicamentele speciale necesare intervenției."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Oh doamne! Cum s-a întâmplat? E conștient? Vin acum la spital!"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Nu mai este timp să veniți până aici, fiecare minut contează pentru a-i salva viața! Costul materialelor medicale este de 15.000 de lei. Lângă mine este și un domn agent de la Poliția Rutieră care întocmește procesul-verbal. Este nevoie să trimiteți cât mai repede banii într-un cont IBAN pe care vi-l voi comunica imediat."
+    }
+  ]
+}

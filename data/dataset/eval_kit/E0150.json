@@ -1,0 +1,21 @@
+{
+  "id": "E0150",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 880",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună ziua, sunt managerul dvs. de cont la EuroTrade Capital."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Da, mi-amintesc."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "E0292",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 614",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună, am trcut la alt operator și am număr nou. Pupici!"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Cine e?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Ți-am trimis și pe mail pozele."
+    },
+    {
+      "n": 4,
+      "from": "sender",
+      "text": "Neața! Mâine te sun, acum sunt obosit. Pupici! Salută-i pe toți de la mine."
+    },
+    {
+      "n": 5,
+      "from": "reader",
+      "text": "Bine, puiule."
+    },
+    {
+      "n": 6,
+      "from": "sender",
+      "text": "Ne auzim mâine."
+    }
+  ]
+}

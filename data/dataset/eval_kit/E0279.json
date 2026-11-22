@@ -1,0 +1,46 @@
+{
+  "id": "E0279",
+  "channel": "call_transcript",
+  "sender": {
+    "name": null,
+    "address": "+40 2xx xxx 768",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună ziua, sunt de la Windows. Licența dvs. a fost compromisă și calculatorul e infectat."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "ce virus?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Durează doar câteva minute."
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "ok, ce urmează?"
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "Descărcați AnyDesk și citiți-mi codul de pe ecran."
+    },
+    {
+      "n": 6,
+      "from": "reader",
+      "text": "cât trebuie?"
+    },
+    {
+      "n": 7,
+      "from": "sender",
+      "text": "Spuneți-mi parola de la e-mail, ca să-l securizez."
+    }
+  ]
+}

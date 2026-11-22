@@ -1,0 +1,36 @@
+{
+  "id": "E0237",
+  "channel": "chat",
+  "sender": {
+    "name": "Elena, 32",
+    "address": "elena545",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună, mi-a plăcut profilul tău."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Mulțumesc."
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Lucrez în construcții în Germania, vin acasă rar. Salută-i pe toți de la mine."
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Aha"
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "Ți-am trimis o poză cu apusul de aici."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "E0005",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 208",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună, sunteți interesat de un venit extra? Primiți 50 de lei pentru fiecare recenzie scrisă. Descărcați aplicația de sarcini de pe car1eraplus.ro/client și dați-i acces la ecran. Oferta expiră diseară. Toate cele bune."
+    }
+  ]
+}

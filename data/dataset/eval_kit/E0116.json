@@ -1,0 +1,16 @@
+{
+  "id": "E0116",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 809",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Salut, sunt Vlad Matei, am număr nou! Îmi dai codul din SMS? Altfel nu-mi pot activa contul. În jumătate de oră trebuie să fie gata. Nu spune la nimeni, mi-e rușine că am pierdut telefonul."
+    }
+  ]
+}

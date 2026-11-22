@@ -1,0 +1,16 @@
+{
+  "id": "E0288",
+  "channel": "email",
+  "sender": {
+    "name": "Banca Dunărea",
+    "address": "notificari@bancadunarea.ro",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună ziua! Banca Dunărea: Dacă primiți un apel de la «bancă» în care vi se cere să mutați banii într-un cont sigur, închideți și sunați la 0800 100 200. O zi bună! Vă dorim o zi frumoasă!"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "E0211",
+  "channel": "call_transcript",
+  "sender": {
+    "name": null,
+    "address": "+40 3xx xxx 740",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună ziua, suport tehnic Orbit Mobil, avem o alertă pe routerul dvs."
+    },
+    {
+      "n": 2,
+      "from": "sender",
+      "text": "Instalați TeamViewer și dați «Accept»."
+    },
+    {
+      "n": 3,
+      "from": "reader",
+      "text": "Cât trebuie?"
+    }
+  ]
+}

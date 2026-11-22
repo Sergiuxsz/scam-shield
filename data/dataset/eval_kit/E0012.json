@@ -1,0 +1,36 @@
+{
+  "id": "E0012",
+  "channel": "chat",
+  "sender": {
+    "name": "Robert, 54",
+    "address": "robert145",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună, ce faci?"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Bine, tu?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Ești foarte specială pentru mine."
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Ce interesant."
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "Scrie-mi pe WhatsApp. Și dacă poti, trimite-mi 670 lei pentru internet aici."
+    }
+  ]
+}

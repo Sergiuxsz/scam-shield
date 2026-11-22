@@ -1,0 +1,16 @@
+{
+  "id": "E0195",
+  "channel": "email",
+  "sender": {
+    "name": "JobRapid Cariere",
+    "address": "noreply@jobrapid.top",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună, sunteți interesat de un venit extra? Câștigați 170 lei pe zi doar dând like-uri la videoclipuri. Intrați în grupul nostru de Telegram pentru sarcini. Achitați 24,77 lei pentru kitul de început."
+    }
+  ]
+}

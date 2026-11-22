@@ -1,0 +1,16 @@
+{
+  "id": "E0204",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 701",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Hei bunico, am schimbat numărul. Ăsta e cel nou. Trebuie să plătesc chiria de 4.260 lei și am cardul blocat. Poți tu? Scrie la detalii «împrumut». Să nu afle bunicul, te rog. Sunt la spital și mi-e foarte frică. În jumătate de oră trebuie să fie gata."
+    }
+  ]
+}

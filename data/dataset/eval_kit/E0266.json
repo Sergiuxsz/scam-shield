@@ -1,0 +1,31 @@
+{
+  "id": "E0266",
+  "channel": "call_transcript",
+  "sender": {
+    "name": null,
+    "address": "+373 4xx xxx 863",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Buna ziua, va contactam de la Windows. Datele dvs. sunt furate chiar acum."
+    },
+    {
+      "n": 2,
+      "from": "sender",
+      "text": "Am nevoie sa-mi dati acces la ecran prin TeamViewer."
+    },
+    {
+      "n": 3,
+      "from": "reader",
+      "text": "Dati-mi un minut. 🙏"
+    },
+    {
+      "n": 4,
+      "from": "sender",
+      "text": "Trebuie sa platiti licenta de protectie, 809 lei."
+    }
+  ]
+}

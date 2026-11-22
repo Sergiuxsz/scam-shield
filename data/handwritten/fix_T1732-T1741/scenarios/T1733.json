@@ -1,0 +1,21 @@
+{
+  "id": "T1733",
+  "channel": "email",
+  "sender": {
+    "name": null,
+    "address": "sergiu.recrutari@gmail.com",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună🤗. Sunt Sergiu. Îți dau mesajul ăsta să te anunț că recrutăm urgent pentru evaluare produse online, 1–2h/zi, 150–300 RON/zi. Dacă sună interesant, scrie-mi pe WhatsApp pentru detalii."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Cine e?"
+    }
+  ]
+}

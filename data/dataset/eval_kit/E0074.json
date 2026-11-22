@@ -1,0 +1,16 @@
+{
+  "id": "E0074",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 275",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Buna ziua, sunt Tudor Constantin, recrutor. Am vazut CV-ul dvs. Priiti 580 lei pe zi doar ca sa testati aplicatii. Intrati in grupul nostru de Telegram pt sarcini. Va trimit detaliile imediat. Oferta expira diseara. Sara frumoasa!"
+    }
+  ]
+}

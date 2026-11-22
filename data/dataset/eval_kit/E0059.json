@@ -1,0 +1,36 @@
+{
+  "id": "E0059",
+  "channel": "sms",
+  "sender": {
+    "name": "Elena (colega)",
+    "address": "+40 7xx xxx 147",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "te rog intra pe verificare-cont.com/formular si apasa pe numele meu."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "am primit ceva, da."
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "acum, te rog! spune-mi cand poti."
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "ce cod?"
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "te rog, sunt disperata, altfel imi pierd contul cu toate pozele copilului."
+    }
+  ]
+}

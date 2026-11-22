@@ -1,0 +1,16 @@
+{
+  "id": "E0194",
+  "channel": "sms",
+  "sender": {
+    "name": "CurierExpres",
+    "address": "CurierExpres",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Stimate client, CurierExpres: Curierul ajunge azi după-amiază. Urmăriţi coletul pe curierexpres.ro"
+    }
+  ]
+}

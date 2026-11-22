@@ -1,0 +1,14 @@
+{
+  "id": "O00_EXAMPLE",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 204",
+    "known_contact": false
+  },
+  "messages": [
+    {"n": 1, "from": "sender", "text": "buna mama, sunt eu Vlad, am schimbat nr, asta e cel nou"},
+    {"n": 2, "from": "reader", "text": "a buna puiule, ce s-a intamplat cu celalalt?"},
+    {"n": 3, "from": "sender", "text": "l-am scapat in apa :( duminica vin la voi, sa aduc ceva?"}
+  ]
+}

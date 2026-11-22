@@ -1,0 +1,16 @@
+{
+  "id": "E0096",
+  "channel": "sms",
+  "sender": {
+    "name": "BancaDunarea",
+    "address": "BancaDunarea",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Departamentul de securitate Banca Dunarea: Aplicatia Dunarea Mobile a fost blocata pe telefonul dvs. Verificati contul pe bancadunarea-client.click Este necesar sa faceti asta chiar acum."
+    }
+  ]
+}

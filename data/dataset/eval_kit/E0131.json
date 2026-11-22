@@ -1,0 +1,26 @@
+{
+  "id": "E0131",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 706",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "EuroTrade Capital - investitii sigure: Randament garantat de 41% pe luna, fara risc. Faceti primul depozit de 1.000 lei in contul RO95JDSP 0286 4792 8949 8696. Mai sunt 5 locuri disponibile. 🙂"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Ok"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Nu ati finalizat inca procedura. Toate cele bune. 😘"
+    }
+  ]
+}

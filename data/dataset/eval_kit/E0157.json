@@ -1,0 +1,26 @@
+{
+  "id": "E0157",
+  "channel": "sms",
+  "sender": {
+    "name": "Andreea (frate)",
+    "address": "+40 7xx xxx 118",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Hei! Să ai o zi frumoasă! Aici plouă de azi-dimineață, tu ce faci?"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Bine, tu?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Nu-i zice lui Andreea că venim, vrem să-l surprindem."
+    }
+  ]
+}

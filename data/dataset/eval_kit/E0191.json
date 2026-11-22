@@ -1,0 +1,26 @@
+{
+  "id": "E0191",
+  "channel": "sms",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 323",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Felicitări! Numărul dvs. a câștigat un set de electrocasnice oferit de TehnoMax. Completați adresa de livrare pe tehnomax.ro.concurs-client.site Oferta e valabilă doar azi."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Staați puțin."
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Ați primit linkul? Cu stimă, echipa TehnoMax."
+    }
+  ]
+}

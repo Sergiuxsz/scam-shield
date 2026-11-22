@@ -1,0 +1,16 @@
+{
+  "id": "E0300",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 866",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Angajmă în Spania cu 2.600 euro pe lună. Taxa de dosar și tansport e 149,90 lei. Petnru contract, avem nevoie de CNP și IBAN."
+    }
+  ]
+}

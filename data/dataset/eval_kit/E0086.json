@@ -1,0 +1,31 @@
+{
+  "id": "E0086",
+  "channel": "whatsapp",
+  "sender": {
+    "name": "Ioana Lazăr",
+    "address": "+40 7xx xxx 958",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "neața! poți să-mi plătești tu o factură de 3.900 lei? ți-i dau diseară. ne vedem în weekend, sper. 👍"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "stai să mă uit."
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "acum, te rog! 🙏"
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "stai să văd."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "E0046",
+  "channel": "email",
+  "sender": {
+    "name": "Banca Dunărea",
+    "address": "noreply@bancadunarea.ro",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Banca Dunărea: Tranzacție respinsă: fonduri insuficiente. Detalii în Dunărea Mobile. Aștept răspunsul dvs. O zi bună! O zi bună!"
+    }
+  ]
+}

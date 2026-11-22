@@ -1,0 +1,16 @@
+{
+  "id": "E0151",
+  "channel": "email",
+  "sender": {
+    "name": "ANAF",
+    "address": "suport@rambursari-ro.com",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "ANAF - Spaţiul Privat Virtual: suma de 3.180 lei urmează să vă fie restituită. Accesaţi https://rambursari-ro.com/formular şi completaţi CNP-ul şi datele cardului. Dacă nu completaţi până pe 10.01, suma se anulează."
+    }
+  ]
+}

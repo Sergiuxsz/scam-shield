@@ -1,0 +1,41 @@
+{
+  "id": "E0033",
+  "channel": "whatsapp",
+  "sender": {
+    "name": "Diana Popa",
+    "address": "+40 7xx xxx 403",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Hei, vad ca esti tot din Cluj-Napoca. Mersi mult!"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Buna! Mersi 😊"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Am un caine, il cheama Bobita."
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Si eu!"
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "Abia astept sa te cunosc in persoana."
+    },
+    {
+      "n": 6,
+      "from": "reader",
+      "text": "Ce frumos!"
+    }
+  ]
+}

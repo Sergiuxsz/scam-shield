@@ -1,0 +1,16 @@
+{
+  "id": "E0172",
+  "channel": "sms",
+  "sender": {
+    "name": "ANAF",
+    "address": "ANAF",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună seara, ANAF: Vă reamintim că nu solicităm date bancare prin telefon sau SMS. Program: luni-vineri, 9:00-18:00."
+    }
+  ]
+}

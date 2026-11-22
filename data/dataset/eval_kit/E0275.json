@@ -1,0 +1,16 @@
+{
+  "id": "E0275",
+  "channel": "sms",
+  "sender": {
+    "name": "GazCasa",
+    "address": "GazCasa",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "GazCasa: Nu vă vom cere niciodată codurile primite prin SMS. Acest mesaj a fost generat automat, vă rugăm să nu răspundeți."
+    }
+  ]
+}

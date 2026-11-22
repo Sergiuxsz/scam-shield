@@ -1,0 +1,31 @@
+{
+  "id": "T1736",
+  "channel": "whatsapp",
+  "sender": {
+    "name": "Sergiu",
+    "address": "+40 7xx xxx 842",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Hey, îți scriu de pe alt număr pentru că mi-am pierdut telefonul recent, cred că mi-a fost furat. Poți să-mi trimiți și mie niște bani să-l înlocuiesc? Cred că în jur de 500 de lei."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Stai puțin, de ce nu suni de pe numărul vechi sau de pe contul tău obișnuit?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Nu mai am acces la el, mi-au închis sim-ul și pe contul vechi nu intră codul. Am găsit un telefon la mâna a doua acum și trebuie să-l plătesc repede până nu-l ia altcineva."
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Hai că te sun eu imediat pe numărul vechi să vedem ce s-a întâmplat."
+    }
+  ]
+}

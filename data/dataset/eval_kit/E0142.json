@@ -1,0 +1,51 @@
+{
+  "id": "E0142",
+  "channel": "call_transcript",
+  "sender": {
+    "name": null,
+    "address": "+40 3xx xxx 788",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Buna ziua, Casa de Pensii aici. Sunteti titularul dosarului nr. 12442649?"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Da, buna ziua."
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Va confirm ca discutati cu institutia."
+    },
+    {
+      "n": 4,
+      "from": "sender",
+      "text": "Ati fost selectata pentru o compensatie de 3.800 lei."
+    },
+    {
+      "n": 5,
+      "from": "reader",
+      "text": "Ce date?"
+    },
+    {
+      "n": 6,
+      "from": "sender",
+      "text": "Am nevoie de numele dvs., CNP-ul si cardul pe care va vine pensia."
+    },
+    {
+      "n": 7,
+      "from": "reader",
+      "text": "Unde scrie?"
+    },
+    {
+      "n": 8,
+      "from": "sender",
+      "text": "Codul din SMS mi-l comunicati, e pentru semnatura."
+    }
+  ]
+}

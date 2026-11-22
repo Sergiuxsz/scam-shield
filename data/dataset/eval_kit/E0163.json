@@ -1,0 +1,31 @@
+{
+  "id": "E0163",
+  "channel": "call_transcript",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 800",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Buna ziua, Matei Rusu, Banca Mures. Aveti un minut? E important."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Ce problema e?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Vedeti ultimele tranzactii in aplicatie?"
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Si ce fac acum?"
+    }
+  ]
+}

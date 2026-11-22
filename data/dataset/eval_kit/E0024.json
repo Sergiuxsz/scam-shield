@@ -1,0 +1,16 @@
+{
+  "id": "E0024",
+  "channel": "email",
+  "sender": {
+    "name": "JobRapid",
+    "address": "suport@jobraapid.ro",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Job garantat in Spania, 2.700 euro. Rezervati locul cu 175,77 lei. Nu spuneti bancii de unde vin banii. Detalii doar pe Telegram."
+    }
+  ]
+}

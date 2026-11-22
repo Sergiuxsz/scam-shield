@@ -1,0 +1,16 @@
+{
+  "id": "E0242",
+  "channel": "whatsapp",
+  "sender": {
+    "name": "Alexandra (vecina)",
+    "address": "+40 7xx xxx 450",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "super oferta de la megashop: card cadou de 500 lei gratis pentru primii 500. trimite mesajul la 10 prieteni ca sa-l primesti!"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "E0243",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 481",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună ziua, TelNova aici. Cartela dvs. trebuie actualizată. Mulțumesc!"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Da."
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Durează două minute."
+    },
+    {
+      "n": 4,
+      "from": "sender",
+      "text": "Pentru activarea eSIM-ului, citiți-mi codul primit prin SMS."
+    },
+    {
+      "n": 5,
+      "from": "reader",
+      "text": "E 4..."
+    },
+    {
+      "n": 6,
+      "from": "sender",
+      "text": "Doar azi."
+    },
+    {
+      "n": 7,
+      "from": "reader",
+      "text": "Ok."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "E0035",
+  "channel": "call_transcript",
+  "sender": {
+    "name": null,
+    "address": "+40 2xx xxx 214",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună ziua, sunt consilier la Casa de Pensii. Aveți câteva minute?"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Bună ziua, ce s-a întâmplat?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Ați fost selectată pentru o compensație de 4.420 lei."
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Aha, bine."
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "Dictați-mi datele de pe card, inclusiv cele trei cifre de pe spate."
+    },
+    {
+      "n": 6,
+      "from": "reader",
+      "text": "Nu știu dacă e bine să dau datele la telefon."
+    },
+    {
+      "n": 7,
+      "from": "sender",
+      "text": "Codul din SMS mi-l comunicați, e pentru semnătură."
+    }
+  ]
+}

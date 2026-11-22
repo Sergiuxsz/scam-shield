@@ -1,0 +1,36 @@
+{
+  "id": "E0216",
+  "channel": "email",
+  "sender": {
+    "name": "ANAF Suport",
+    "address": "info@anaf-plata.net",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Stimate contribuabil, suma de 1.340 lei urmeaza sa va fie restituita. Pentru incasare, confirmati datele bancare pe anaf-plata.net Daca nu completati pana pe 23.09, suma se anuleaza. Multumesc frumos."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "ce e asta?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Revin cu rugamintea de mai sus."
+    },
+    {
+      "n": 4,
+      "from": "sender",
+      "text": "Ultima notificare: azi expira."
+    },
+    {
+      "n": 5,
+      "from": "reader",
+      "text": "nu am cerut nimic."
+    }
+  ]
+}

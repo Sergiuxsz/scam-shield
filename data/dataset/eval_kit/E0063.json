@@ -1,0 +1,61 @@
+{
+  "id": "E0063",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 529",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună, ce nume frmos ai."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Salut, da, sunt din Timișoara."
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Ce faci? Ai domrit bine?"
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Când vii acasă?"
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "Ești singuruul meu sprijin acum."
+    },
+    {
+      "n": 6,
+      "from": "sender",
+      "text": "Spitalul îmi cere 2.250 lei pentru operația fetiței."
+    },
+    {
+      "n": 7,
+      "from": "reader",
+      "text": "Sincer, mi se pare ciudat."
+    },
+    {
+      "n": 8,
+      "from": "sender",
+      "text": "Nu spune faamiliei tale, n-ar înțelege. Mersi mult!"
+    },
+    {
+      "n": 9,
+      "from": "sender",
+      "text": "Te rog, acum."
+    },
+    {
+      "n": 10,
+      "from": "reader",
+      "text": "Ce frumos!"
+    }
+  ]
+}

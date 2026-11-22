@@ -1,0 +1,16 @@
+{
+  "id": "E0085",
+  "channel": "email",
+  "sender": {
+    "name": "Banca Dunărea",
+    "address": "noreply@bancadunarea.ro",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Departamentul de securitate Banca Dunărea: Extrasul lunar este disponibil în aplicație. Detalii la 0800 100 200 sau pe bancadunarea.ro."
+    }
+  ]
+}

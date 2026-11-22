@@ -1,0 +1,16 @@
+{
+  "id": "E0078",
+  "channel": "email",
+  "sender": {
+    "name": "Banca Dunărea",
+    "address": "admin@bancadunarea.top",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Departamentul de securitate Banca Dunărea: Din cauza datelor neactualizate, plățile vor fi oprite. Detalii și deblocare: bancadunarea.top"
+    }
+  ]
+}

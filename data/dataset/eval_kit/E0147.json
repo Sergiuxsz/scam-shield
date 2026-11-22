@@ -1,0 +1,56 @@
+{
+  "id": "E0147",
+  "channel": "chat",
+  "sender": {
+    "name": "Michael, 35",
+    "address": "michael292",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună, ce nume furmos ai."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Bună, ne cunoaștem?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Ești foarte specială pentru mine."
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Mi-e dor de tine."
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "Bună seara! Ești singurul meu sprijin acum. Mersi mult!"
+    },
+    {
+      "n": 6,
+      "from": "reader",
+      "text": "Ce mucă grea."
+    },
+    {
+      "n": 7,
+      "from": "sender",
+      "text": "Am neoie de 2.450 lei pentru acttele de concediu."
+    },
+    {
+      "n": 8,
+      "from": "reader",
+      "text": "Nu pot să cer de la altcineva?"
+    },
+    {
+      "n": 9,
+      "from": "sender",
+      "text": "Te rog, acum."
+    }
+  ]
+}

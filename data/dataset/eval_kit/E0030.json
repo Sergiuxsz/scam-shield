@@ -1,0 +1,16 @@
+{
+  "id": "E0030",
+  "channel": "sms",
+  "sender": {
+    "name": "ANAF",
+    "address": "ANAF",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Stimate client, ANAF - Spaţiul Privat Virtual: în urma recalculării, aveţi de primit 3.380 lei. Nu este necesară nicio acţiune. Detalii pe anaf.ro/client. Vă mulţumim pentru înţelegere."
+    }
+  ]
+}

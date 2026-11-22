@@ -1,0 +1,21 @@
+{
+  "id": "T1708",
+  "channel": "call_transcript",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 456",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună ziua! Mă numesc Marin Florescu și vă sun referitor la abonamentul dumneavoastră de la rețeaua Digi. În vederea reînoirii acestuia trebuie să trimiteți o sumă de bani la următorul IBAN."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Desigur, transmiteți-mi contul."
+    }
+  ]
+}

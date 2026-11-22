@@ -1,0 +1,16 @@
+{
+  "id": "E0246",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 189",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Buna! Am numar nou, salveaza-ma: Gabriel. Imi dai codul din SMS? Altfel nu-mi pot activa contul. In jumatate de ora trebuie sa fie gata. Aici ploua de azi-dimineata, tu cf?"
+    }
+  ]
+}

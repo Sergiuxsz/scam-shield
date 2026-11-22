@@ -1,0 +1,46 @@
+{
+  "id": "E0050",
+  "channel": "call_transcript",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 608",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Salut, sunt curier la ColetNet, unde vă las coletul?"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Da, eu sunt."
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Vă sun când ajung în zonă."
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Credeam că e plătit."
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "Taxa se plătește doar online, pe coletnet.click"
+    },
+    {
+      "n": 6,
+      "from": "sender",
+      "text": "Linkul de plată e coletnet.click"
+    },
+    {
+      "n": 7,
+      "from": "reader",
+      "text": "Verific și revin."
+    }
+  ]
+}

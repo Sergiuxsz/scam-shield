@@ -1,0 +1,51 @@
+{
+  "id": "E0241",
+  "channel": "call_transcript",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 800",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Buna ziua, Matei Rusu, Banca Mures. Aveti un minut? E important."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Ce problema e?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Vedeti ultimele tranzactii in aplicatie?"
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Si ce fac acum?"
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "Datele cardului dvs. au fost furate si pot fi folosite oricand."
+    },
+    {
+      "n": 6,
+      "from": "reader",
+      "text": "Bine, ce trebuie sa fac?"
+    },
+    {
+      "n": 7,
+      "from": "sender",
+      "text": "Dictati-mi codul de 6 cifre pe care tocmai l-ati primit."
+    },
+    {
+      "n": 8,
+      "from": "reader",
+      "text": "Il intreb intai pe fiul meu."
+    }
+  ]
+}

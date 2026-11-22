@@ -1,0 +1,16 @@
+{
+  "id": "T1704",
+  "channel": "sms",
+  "sender": {
+    "name": "Maria Smerea",
+    "address": "+40 7xx xxx 456",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Buna! Dupa cum stii, fiica mea participa la concusuri de dans si astazi a participat la o competitie televizata bazata pe votul publicului si m-ar ajuta mult votul tau. Te rog, voteaza cat mai repede aici vote-comp.ro"
+    }
+  ]
+}

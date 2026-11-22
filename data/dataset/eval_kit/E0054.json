@@ -1,0 +1,36 @@
+{
+  "id": "E0054",
+  "channel": "sms",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 541",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Hei tati, am schimbat numarul. Asta e cel nou."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Ce numar e asta?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Eu sunt, Stefan! Tati, am o belea, am de platit o factura si aplicatia bancii nu merge pe telefonul nou. Imi poti vira tu 3.020 lei? Ti-i returnez maine. Vorbim mai tarziu."
+    },
+    {
+      "n": 4,
+      "from": "sender",
+      "text": "Scrie la detalii «imprumut»."
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "Sunt la spital si mi-e foarte frica."
+    }
+  ]
+}

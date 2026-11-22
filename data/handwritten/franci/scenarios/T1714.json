@@ -1,0 +1,16 @@
+{
+  "id": "T1714",
+  "channel": "email",
+  "sender": {
+    "name": "eMAG Oferte Speciale",
+    "address": "promo-lichidare@stocuri-emag-ro.ro",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună ziua,\n\nCu ocazia campaniei de lichidare a stocurilor de Black Friday, adresa dumneavoastră de email a fost selectată pentru a revendica o Cutie Misterioasă (Mystery Box) cu produse electronice returnate sau resigilate!\n\nÎn interiorul cutiei se pot afla: iPhone 16 Pro, consolă PlayStation 5, espressor automat De'Longhi sau căști wireless.\n\nPreț promoțional simbolic: 9,99 LEI (livrare gratuită prin curier).\n\n⚠️ Atenție: Oferta este valabilă doar în următoarele 24 de ore, în limita a 150 de cutii disponibile.\n\nRevendică-ți cutia aici: https://emag-mysterybox-promo.ro\n\nCu stimă,\nEchipa Promoții & Lichidări"
+    }
+  ]
+}

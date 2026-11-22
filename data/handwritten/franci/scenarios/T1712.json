@@ -1,0 +1,26 @@
+{
+  "id": "T1712",
+  "channel": "call_transcript",
+  "sender": {
+    "name": "Banca Exemplu - Suport Clienti",
+    "address": "+40 7xx xxx 000",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună ziua! Vă sunăm din partea Departamentului Antifraudă al Băncii România. Am detectat o cerere de credit de nevoi personale în valoare de 45.000 RON inițiată din contul dumneavoastră acum 5 minute, de pe un dispozitiv nou. Dumneavoastră ați solicitat acest împrumut?"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Nu, nu am cerut niciun credit!"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Înțelegem, este o tentativă de fraudă și trebuie să blocăm transferul imediat înainte ca banii să fie virați. Pentru a securiza contul și a anula cererea, vă rugăm să descărcați aplicația oficială de suport tehnic AnyDesk din magazinul de aplicații și să ne comunicați codul de 9 cifre afișat pe ecran, apoi să confirmați codul SMS primit."
+    }
+  ]
+}

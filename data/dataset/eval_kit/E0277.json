@@ -1,0 +1,16 @@
+{
+  "id": "E0277",
+  "channel": "email",
+  "sender": {
+    "name": "Echipa Suport Notificări",
+    "address": "noreply@doonatii.ro",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bătrâna din imagine nu are ce mânca de trei zile. Trimiteți orice sumă prin transfer în contul RO90ULCZ 4357 0445 3188 0551. Avem nevoie de bani până diseară."
+    }
+  ]
+}

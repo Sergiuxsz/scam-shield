@@ -1,0 +1,26 @@
+{
+  "id": "E0080",
+  "channel": "chat",
+  "sender": {
+    "name": "Cumpărător PiațaMea",
+    "address": "user_79657",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "bună ziua, e disponibil produsul din anunț?"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "da, încă e disponibilă."
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "bună ziua! banii sunt în sistem. ridicați-i pe piatamea.ro.plati-cont.eu cu datele cardului. linkul e valabil doar azi. mulțumesc!"
+    }
+  ]
+}

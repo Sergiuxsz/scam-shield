@@ -1,0 +1,31 @@
+{
+  "id": "E0031",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 973",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Buna seara, Da, inca e. Am mai multi interesati. mersi!"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Buna, cat costa?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "E practic noua, folosita de doua ori. Faceti plata pe vnderapid.ro/cont, e garantia curierului."
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Sun eu la numarul oficial. 😘"
+    }
+  ]
+}

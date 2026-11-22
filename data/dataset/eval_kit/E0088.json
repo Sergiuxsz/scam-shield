@@ -1,0 +1,31 @@
+{
+  "id": "E0088",
+  "channel": "whatsapp",
+  "sender": {
+    "name": "Darius",
+    "address": "+40 7xx xxx 597",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Ți-a venit un cod de 6 cifre? Zi-mi-l, te rog."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "De ce ți-ar veni pe numărul meu?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Hei, O să primești un cod, scrie-mi-l, e pentru validare. Să ai o zi frumoasă!"
+    },
+    {
+      "n": 4,
+      "from": "sender",
+      "text": "Acum, te rog!"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "E0180",
+  "channel": "chat",
+  "sender": {
+    "name": "Alex, 31",
+    "address": "alex993",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Hello! Ce mai faci? Mi-ai atas atenţia. 😊"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Ce frumos!"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Aplicaţia asta mă deconectează mereu, scrie-mi pe WhatsApp. Ne vdeem în weekend, sper. 😢"
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Mi-e dor de tine."
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "Eşti signurul meu sprijin acum."
+    },
+    {
+      "n": 6,
+      "from": "reader",
+      "text": "Şi eu mă gândesc la tine."
+    },
+    {
+      "n": 7,
+      "from": "sender",
+      "text": "Spitalul îmi cere 3.120 lei pt operaţia fetiţei. ❤️"
+    },
+    {
+      "n": 8,
+      "from": "sender",
+      "text": "Nu spune familiei tale, n-ar înţelege. 😢"
+    },
+    {
+      "n": 9,
+      "from": "sender",
+      "text": "te rog, acu. 😊"
+    }
+  ]
+}

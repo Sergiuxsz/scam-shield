@@ -1,0 +1,16 @@
+{
+  "id": "T1710",
+  "channel": "sms",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 346",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Vă aducem la cunoștință faptul că autovehiculul dumneavoastră a fost staționat neregulamentar, motiv pentru care s-a dispus măsura tehnico-administrativă de blocare a roților, în conformitate cu prevederile legale în vigoare.\n\nVă rugăm să vă prezentați la locul în care se află autovehiculul în vederea clarificării situației, aplicării sancțiunii contravenționale și achitării taxei aferente operațiunii de deblocare.\n\nCu stimă,\nPoliția Locală"
+    }
+  ]
+}

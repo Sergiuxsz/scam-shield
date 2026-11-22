@@ -1,0 +1,16 @@
+{
+  "id": "E0218",
+  "channel": "chat",
+  "sender": {
+    "name": "Mihai",
+    "address": "+40 7xx xxx 828",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună! Ce faci? Ți-a venit un cod de 6 cifre? Zi-mi-l, te rog. Abia aștept să ne vedem. ❤️"
+    }
+  ]
+}

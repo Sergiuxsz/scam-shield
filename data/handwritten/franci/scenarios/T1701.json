@@ -1,0 +1,26 @@
+{
+  "id": "T1701",
+  "channel": "whatsapp",
+  "sender": {
+    "name": "Andrei",
+    "address": "+40 7xx xxx 152",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună Andrei! Cum ți-a fost ziua?"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Bună! A fost bine, am fost la facultate până acum la 16 și după m-am pus să mănânc. Ție cum ți-a fost ziua?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Și la mine a fost super azi. Am dormit toată ziua"
+    }
+  ]
+}

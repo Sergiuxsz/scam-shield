@@ -1,0 +1,16 @@
+{
+  "id": "E0057",
+  "channel": "sms",
+  "sender": {
+    "name": "RapidColet",
+    "address": "RapidColet",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Stimate client, RapidColet: Coletul nu poate fi livrat din cauza unei greutăți nedeclarate. Urmăriți coletul pe https://rapidcolet.online/formular"
+    }
+  ]
+}

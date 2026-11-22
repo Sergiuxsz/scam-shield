@@ -1,0 +1,16 @@
+{
+  "id": "E0168",
+  "channel": "sms",
+  "sender": {
+    "name": "BancaDunarea",
+    "address": "BancaDunarea",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Clientul Banca Dunărea, Vă rugăm să ne apelați la 0800 100 200. Aștept răspunsul dvs."
+    }
+  ]
+}

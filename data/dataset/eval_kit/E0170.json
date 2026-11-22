@@ -1,0 +1,41 @@
+{
+  "id": "E0170",
+  "channel": "chat",
+  "sender": {
+    "name": "Elena, 53",
+    "address": "elena980",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună, sunt Elena. Mi-ar plăcea să ne cunoaștem."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Mulțumesc 😊"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Ești foarte specială pt mine."
+    },
+    {
+      "n": 4,
+      "from": "sender",
+      "text": "Hei, Aplicația asta mă deconectează mereu, scrie-mi pe WhatsApp. Te pup!"
+    },
+    {
+      "n": 5,
+      "from": "reader",
+      "text": "Când vii acasă?"
+    },
+    {
+      "n": 6,
+      "from": "sender",
+      "text": "Ești singurul meu sprijin acum."
+    }
+  ]
+}

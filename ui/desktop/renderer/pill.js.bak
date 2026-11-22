@@ -1,0 +1,132 @@
+/*
+ * The floating island.
+ *   listening → a small pill; the cat sits calmly and slow-blinks.
+ *   a message arrives → her eyes follow it for a moment (nothing to read).
+ *   a scam → the pill lights up and cascades down into a card: the cat, holding the stop sign,
+ *            gives up to three short reasons one by one, then ▶ Ascultă and Vezi tot.
+ * Safe and suspicious messages never light it up.
+ */
+(function () {
+  'use strict';
+  var h = React.createElement, useState = React.useState, useEffect = React.useEffect, useRef = React.useRef;
+  var S = window.ScamShield;
+  var CHANNELS = { sms: 'SMS', whatsapp: 'WhatsApp', email: 'e-mail', chat: 'chat', call_transcript: 'apel' };
+  var reduceMotion = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+  function senderLabel(item) {
+    var s = item.sender || {};
+    return [CHANNELS[item.channel] || item.channel, s.name || s.address].filter(Boolean).join(' · ');
+  }
+
+  /* The cat says the warning lines (warnings_ro); the reasons she shows light up when they are spoken. */
+  function buildSpeech(r) {
+    var lines = r.warning_lines && r.warning_lines.length ? r.warning_lines : [r.warning || ''];
+    var text = '', starts = [];
+    lines.forEach(function (l) { if (text) text += ' '; starts.push(text.length); text += l; });
+    // clause = the words used for this reason inside the 3-sentence warning (null if not spoken)
+    var marks = (r.reasons || []).map(function (x) { return x.clause ? text.indexOf(x.clause) : -1; });
+    var al = r.action_line != null ? Math.min(r.action_line, starts.length - 1) : starts.length - 1;
+    return { text: text, marks: marks, todoAt: starts[al] != null ? starts[al] : text.length };
+  }
+
+  function PlayIcon(p) {
+    return h('svg', { viewBox: '0 0 24 24', width: 22, height: 22, 'aria-hidden': true },
+      p.playing ? h('rect', { x: 6, y: 6, width: 12, height: 12, rx: 2, fill: 'currentColor' }) : h('path', { d: 'M8 5.5v13l10.5-6.5z', fill: 'currentColor' }));
+  }
+
+  /* The cascade card: one alert, the cat's reasons, play and "see everything". */
+  function AlertIsland(p) {
+    var item = p.item, r = item.result;
+    var st = useState(false), playing = st[0], setPlaying = st[1];
+    var sp = useState(-1), spoken = sp[0], setSpoken = sp[1]; // index of the reason being spoken; reasons.length = the action
+    var speech = useRef(buildSpeech(r));
+    var voice = useRef(null);
+    var reasons = r.reasons || [];
+
+    // Prepare the Romanian audio as soon as the card appears, so ▶ plays without a wait.
+    useEffect(function () {
+      window.ShieldVoice.prepare(speech.current.text);
+      return function () { if (voice.current) voice.current.stop(); };
+    }, []);
+
+    function stop() { if (voice.current) voice.current.stop(); voice.current = null; setPlaying(false); setSpoken(-1); }
+    function play() {
+      if (playing) { stop(); return; }
+      var s = speech.current;
+      setPlaying(true);
+      voice.current = window.ShieldVoice.play(s.text, {
+        onProgress: function (charIndex) {
+          var i = -1;
+          s.marks.forEach(function (m, k) { if (m >= 0 && charIndex >= m) i = k; });
+          if (charIndex >= s.todoAt) i = reasons.length;
+          setSpoken(i);
+        },
+        onEnd: function () { voice.current = null; setPlaying(false); setSpoken(-1); }
+      });
+    }
+
+    var more = p.unseenCount > 1 ? h('span', { className: 'alert-more', 'aria-label': (p.unseenCount - 1) + ' alte alerte' }, '+' + (p.unseenCount - 1)) : null;
+    return h('section', { className: 'island is-open', role: 'alertdialog', 'aria-labelledby': 'island-title', 'aria-describedby': 'island-reasons', style: { '--n': reasons.length } },
+      h('div', { className: 'island-head' },
+        h(S.VerdictIcon, { verdict: 'SCAM', size: 26 }),
+        h('span', { className: 'alert-text' },
+          h('span', { id: 'island-title', className: 'alert-title' }, 'Pare o țeapă!' + (p.demo ? ' (demo)' : '')),
+          h('span', { className: 'alert-sub' }, senderLabel(item))),
+        more,
+        h('button', { className: 'alert-x', 'aria-label': 'Am înțeles, închide alerta', title: 'Închide alerta', onClick: function () { stop(); window.shield.dismissAll(); } }, '×')),
+      h('div', { className: 'island-body' }, h('div', { className: 'island-inner' },
+        h('div', { className: 'island-cat' },
+          h(S.Mascot, { mood: 'scam', paws: 'sign', size: 92, className: playing ? 'is-talking' : '' })),
+        h('div', { className: 'island-say' },
+          h('p', { className: 'say-lead' }, 'Iată de ce:'),
+          h('ol', { id: 'island-reasons', className: 'reasons' }, reasons.map(function (x, i) {
+            return h('li', { key: x.code, className: spoken === i ? 'is-spoken' : '', style: { '--i': i } },
+              h('span', null, x.text),
+              x.quote ? h('span', { className: 'quote' }, '„' + x.quote + '”') : null);
+          })),
+          h('div', { className: 'island-actions' },
+            h('button', { className: 'btn-play' + (playing ? ' is-playing' : ''), onClick: play, 'aria-pressed': playing, autoFocus: !reduceMotion },
+              h(PlayIcon, { playing: playing }), h('span', null, playing ? 'Oprește' : 'Ascultă')),
+            h('button', { className: 'btn-more', onClick: function () { stop(); window.shield.openFull(item.id); } }, 'Vezi tot'))))));
+  }
+
+  function Island() {
+    var st = useState(null), snap = st[0], setSnap = st[1];
+    var tk = useState(0), setTick = tk[1];
+    useEffect(function () { window.shield.onState(setSnap); }, []);
+    useEffect(function () {
+      if (!snap || !snap.activity) return undefined;
+      var t = setTimeout(function () { setTick(Date.now()); }, 1600);
+      return function () { clearTimeout(t); };
+    }, [snap && snap.activity && snap.activity.at]);
+
+    if (!snap || snap.status === 'starting') {
+      return h('div', { className: 'pill', role: 'status' },
+        h(S.Mascot, { mood: 'sleeping', size: 34 }), h('span', { className: 'pill-name' }, 'Scam Shield'), h('span', { className: 'pill-sub' }, 'pornește…'));
+    }
+    if (snap.status === 'error') {
+      return h('button', { className: 'pill is-error', onClick: window.shield.togglePane },
+        h(S.Mascot, { mood: 'suspicious', size: 34 }), h('span', null, snap.error));
+    }
+    var unseen = snap.history.filter(function (i) { return !i.seen && i.result.verdict === 'SCAM'; });
+    if (unseen.length) return h(AlertIsland, { key: unseen[0].id, item: unseen[0], unseenCount: unseen.length, demo: snap.demo });
+
+    var a = snap.activity;
+    var looking = a && a.kind === 'checking' && Date.now() - a.at < 1500;
+    return h('button', { className: 'pill', onClick: window.shield.togglePane, title: 'Deschide Scam Shield' },
+      h(S.Mascot, { mood: looking ? 'checking' : 'idle', size: 34 }),
+      h('span', { className: 'pill-name' }, 'Scam Shield'),
+      h('span', { className: 'pill-sub' }, (snap.demo ? 'demonstrație' : 'ascult') + (snap.checked ? ' · ' + snap.checked + ' verificate' : '')));
+  }
+
+  /* The window is transparent and larger than the island: clicks pass through everywhere except the island. */
+  function Stage() {
+    return h('div', {
+      className: 'stage',
+      onMouseOver: function (e) { window.shield.pillHover(!!e.target.closest('.pill, .island')); },
+      onMouseLeave: function () { window.shield.pillHover(false); }
+    }, h(Island));
+  }
+
+  ReactDOM.createRoot(document.getElementById('root')).render(h(Stage));
+})();

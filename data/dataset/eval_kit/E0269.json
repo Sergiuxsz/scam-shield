@@ -1,0 +1,16 @@
+{
+  "id": "E0269",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 329",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Departamentul de securitate Banca Dunarea: Am detectat o tranzactie suspecta de 3.570 lei, iar cardul va fi blocat. Actualizati datele aici: https://bancdaunarea.ro"
+    }
+  ]
+}

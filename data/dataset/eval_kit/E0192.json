@@ -1,0 +1,51 @@
+{
+  "id": "E0192",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 121",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Buna, sunt Marco. Mi-ar pacea sa ne cunoastem. Saluta-i pe toti de la mine."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Buna! Mersi."
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Lucrez in constructii in Germania, vin acasa rar."
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Si eu ma gandesc la tine."
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "Simt ca te cunosc de-o viata."
+    },
+    {
+      "n": 6,
+      "from": "sender",
+      "text": "Esti foarte speciala pentru mine."
+    },
+    {
+      "n": 7,
+      "from": "sender",
+      "text": "Esti singurul meu sprijin acum."
+    },
+    {
+      "n": 8,
+      "from": "reader",
+      "text": "Suna frumos."
+    }
+  ]
+}

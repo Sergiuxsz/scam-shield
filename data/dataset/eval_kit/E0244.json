@@ -1,0 +1,41 @@
+{
+  "id": "E0244",
+  "channel": "call_transcript",
+  "sender": {
+    "name": null,
+    "address": "+49 1xx xxx 598",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună ziua, sunt de la asistența tehnică Windows. Calculatorul dvs. răspândește viruși în rețea."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Și ce e de făcut?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Durează doar câteva minute."
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Așteptați, caut."
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "Am nevoie să-mi dați acces la ecran prin RustDesk."
+    },
+    {
+      "n": 6,
+      "from": "reader",
+      "text": "Nu dau date la telefon. La revedere!"
+    }
+  ]
+}

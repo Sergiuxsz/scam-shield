@@ -1,0 +1,16 @@
+{
+  "id": "E0286",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 318",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună, am trect la alt operator și am număr nou. Pupici! Ne auzim mâine. Să ai o zi frumoasă! Aici plouă de azi-dimineață, tu ce faci?"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "E0159",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 165",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună ziua, vă sun de la MegaShop, departamentul de marketing."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Da, am cumpărat ceva."
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Ați participat la campania noastră de vară, automat. Mulțumesc!"
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Nu-mi vine să cred!"
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "Ați primit un voucher de 2.450 lei."
+    },
+    {
+      "n": 6,
+      "from": "reader",
+      "text": "Nu-mi vine să cred!"
+    },
+    {
+      "n": 7,
+      "from": "sender",
+      "text": "Am nevoie de CNP pentru procesul-verbal de predare."
+    }
+  ]
+}

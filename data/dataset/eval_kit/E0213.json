@@ -1,0 +1,26 @@
+{
+  "id": "E0213",
+  "channel": "chat",
+  "sender": {
+    "name": "Cumpărător PiațaMea",
+    "address": "seller_14396",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Salut, consola de jocuri mai e de vânzare? Aştept răspunsul dvs. Aştept răspunsul dvs. Mulţumesc frumos."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Bună ziua, da."
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Am achitat prin Lvirare Sigură pe piatamea.ro, vă vine notificare."
+    }
+  ]
+}

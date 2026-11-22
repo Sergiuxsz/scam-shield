@@ -1,0 +1,36 @@
+{
+  "id": "E0083",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 582",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "bună ziua, mă interesează imprimanta. o zi bună! vă merssi anticipat."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "da, mai e."
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "ok, îmi convne preţul."
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "da, am factura."
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "vă aştept la metrou, aduc banii cash."
+    }
+  ]
+}

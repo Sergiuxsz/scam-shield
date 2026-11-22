@@ -1,0 +1,26 @@
+{
+  "id": "E0219",
+  "channel": "sms",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 402",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Stimate client, ColetNet: Am încercat să livrăm coletul, dar nu ați răspuns. Plătiți taxa de 2,99 lei cu datele cardului aici: colet-24.xyz/cont Fără plată, coletul nu mai poate fi recuperat."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Nu înțeleg."
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Bună ziua, Fără confirmare, suma se pierde. Pentru mai multe informații, consultați termenii și condițiile."
+    }
+  ]
+}

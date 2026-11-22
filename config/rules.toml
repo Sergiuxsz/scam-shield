@@ -1,0 +1,169 @@
+# Vocabulary for rules.py. Edit this file to tune detection; no Python changes needed.
+#
+# Everything is matched against norm(text): lowercase, NO diacritics.
+# So write "platiti", not "plătiți".
+#
+# '...' (single quotes) are TOML literal strings: backslashes stay as typed, so
+# regex like '\bpin\b' needs no escaping.
+#   \b  = word boundary ('\bpin\b' matches "pin" but not "pinguin")
+#   \w* = rest of the word ('\bblocat\w*' matches blocat, blocata, blocate)
+#   ?   = previous thing optional ('numar(ul)?' matches numar and numarul)
+
+# ---------------------------------------------------------------- contacts
+[contacts]
+# Domain endings recognised as links. A scam on an ending not listed here won't be seen as a link.
+# Includes link-shortener and common foreign endings: dev missed is.gd links entirely.
+tlds = ["ro", "com", "net", "org", "info", "eu", "biz", "xyz", "online", "site", "top",
+        "io", "co", "me", "app", "shop", "club", "link", "live", "click",
+        "gd", "ly", "cc", "ru", "tk", "to", "sh", "ws", "su", "md", "ua", "pl", "de", "it", "uk", "fr", "es", "in", "us", "store", "win", "vip"]
+
+# ---------------------------------------------------------------- claims (who it says it is)
+# Category of each catalog organisation, keyed by its compact name (no spaces/diacritics).
+[claims.catalog_category]
+bancadunarea = "bank"
+curierexpres = "courier"
+piatamea = "marketplace"
+megashop = "shop"
+anaf = "authority"
+
+# Claims not in the catalog. Checked in this order, first match wins.
+[[claims.generic]]
+pattern = '\bcasa (nationala )?de pensii\b'
+label = "Casa de Pensii"
+category = "authority"
+
+[[claims.generic]]
+pattern = '\b(politia|politie|parchet\w*|ministerul\b|primaria|cnas|casa de asigurari|anpis|ajpis|itm|procuratura)'
+label = "o instituție a statului"
+category = "authority"
+
+[[claims.generic]]
+pattern = '\banaf\b'
+label = "ANAF"
+category = "authority"
+
+[[claims.generic]]
+pattern = '\bsuport(ul)? tehnic\b|\bmicrosoft\b|\bwindows\b'
+label = "suport tehnic"
+category = "tech_support"
+
+# The central bank is an authority, not "your bank". Checked before the generic bank claim.
+[[claims.generic]]
+pattern = '\bbanca nationala\b|\bbnr\b'
+label = "o instituție a statului"
+category = "authority"
+
+# A claim needs an identity ("Banca X", "antifrauda"), not a topic word:
+# "conturile bancare" (bank accounts) is not a bank writing to you.
+[[claims.generic]]
+pattern = '\b(banca|bancii)\b|\bdepartamentul (de securitate|antifrauda)\b|\bantifrauda\b'
+label = "banca"
+category = "bank"
+
+# "livrare prin curier" (a delivery method) is not a courier claim; "curier X" / "CurierExpres:" are.
+[[claims.generic]]
+pattern = '(?<!prin )\b(curier\w*|posta romana|fan courier|sameday|cargus|dpd|gls)\b'
+label = "curier"
+category = "courier"
+
+# ---------------------------------------------------------------- code request
+# RF_CODE_REQUEST = a code word anywhere in the message + a request verb that isn't negated.
+# Plain words here (not regex); each is matched as a whole word.
+[code_request]
+code_words = ["cod", "codul", "coduri", "codurile", "otp"]
+request_verbs = ["trimite", "trimiteti", "trimiti", "citi", "cititi", "citeste", "spune", "spuneti",
+                 "dicta", "dictati", "comunica", "comunicati", "transmite", "transmiteti", "da-mi", "dati-mi"]
+
+# ---------------------------------------------------------------- negation
+# A request doesn't count if a negation word appears in the `window` characters before it,
+# or an `anywhere` word appears in the same sentence.
+#   "Nu comunicați acest cod"  /  "nu vă cerem niciodată PIN-ul"
+[negation]
+# REMOTE_ACCESS added: dev had "Nicio bancă nu vă cere să instalați AnyDesk" flagged as a request.
+flags = ["RF_DATA_REQUEST", "RF_PAYMENT_REQUEST", "RF_REMOTE_ACCESS"]
+window = 20
+before = ['\bnu\b']
+anywhere = ["niciodata", "nicio banca", "nimeni de la"]
+
+# ---------------------------------------------------------------- legitimacy signals
+# Signs that a message is a GENUINE notice: it gives, informs or warns instead of asking.
+# They never add or remove points by themselves. On a message that has one, the fine-tuned model
+# may no longer turn a flag on ALONE (a rule must agree). Rule hits still count, so
+# "Nu vă cerem niciodată PIN-ul... introduceți PIN-ul aici" is still caught by the rules.
+[legitimacy]
+no_action = [
+    '\bnu (este|e) (necesara|nevoie de) (nicio|vreo) (actiune|interventie)\b',
+    '\bnu (trebuie|este nevoie) sa (faceti|mai faceti|intreprindeti) nimic\b',
+    '\bnu este necesar sa (raspundeti|faceti)\b',
+]
+never_asks = [
+    '\bnu (va )?(vom )?(cere|cerem|solicita|solicitam|solicitam)\w* niciodata\b',
+    '\bniciodata nu (va )?(cere|cerem|solicita|solicitam)\w*\b',
+    '\bnu (comunicati|dati|spuneti|transmiteti)\b[^.!?]{0,40}\b(nimanui|nici angajatilor)\b',
+]
+gives_money = [
+    '\b(aveti|ai) de primit\b', '\bveti primi\b', '\bsuma (va ajunge|ajunge|va fi virata) in contul\b',
+    '\bvi s-a (virat|returnat|rambursat)\b',
+]
+informs_only = [
+    '\bva fi livrat\b', '\bramburs: 0\b', '\b(a fost|au fost) (livrat|platit|achitat)\w*\b',
+]
+
+# ---------------------------------------------------------------- flag patterns
+# One list of regex alternatives per flag. Any one matching = flag found.
+# RF_SUSPICIOUS_CONTACT and RF_CODE_REQUEST are handled by code above, not here.
+[patterns]
+# Needs an install/open REQUEST near the app name: "Colegul mi-a instalat AnyDesk" (a mention) is not a flag.
+RF_REMOTE_ACCESS = [
+    '\b(instalati|instaleaza|descarcati|descarca|deschideti|deschide|porniti|rulati|intrati pe)\b[^.!?]{0,50}\b(anydesk|teamviewer|rustdesk|ultraviewer|quick ?support|supremo|ammyy)\b',
+    '\b(anydesk|teamviewer|rustdesk|ultraviewer|quick ?support|supremo|ammyy)\b[^.!?]{0,40}\b(instalati|instaleaza|descarcati|descarca|deschideti|porniti)\b',
+    '(ajuta|control|acces|conect)\w* (\w+ ){0,3}de la distanta',
+]
+RF_DATA_REQUEST = [
+    'datele (cardului|de card|bancare|personale|de logare|contului)',
+    'numarul (de )?card(ului)?',
+    '\bcnp\b', '\bpin\b', '\bparola\b', '\bcvv\b', '\bcvc\b',
+    'poza (cu|a) (buletin|cartea de identitate)',
+    'intrati in cont', 'contul de banca',
+    'date(le)? de autentificare', 'confirm\w* datele',
+]
+RF_PAYMENT_REQUEST = [
+    '\b(achitati|platiti|plateste|virati|transferati|depuneti|alimentati)\b',
+    '\bfa(ci|ceti)?(-mi)? (tu )?un transfer',
+    '\btrimite(ti)?(-mi)? (niste )?(\d[\d.,]* ?)?(lei|euro|ron|bani)\b',
+    '\bimprumuta(ti)?-mi\b',
+]
+# Rules-only flag (see fusion.json rules_only), so it must cover how people really write:
+# "nr", "nr-ul", "asta e cel nou", "numar nou de telefon".
+RF_NEW_NUMBER = [
+    '\b(numar(ul)?|nr(-ul)?) (meu )?nou\b', '\bnoul (meu )?(numar|nr)\b', '\basta e (numarul|nr(-ul)?|cel nou)\b',
+    '\bschimbat (numarul|nr(-ul)?)\b', '\bs-a stricat telefonul\b', '\bam pierdut telefonul\b',
+    '\bnumar nou de telefon\b', '\bscriu de pe (un )?(alt )?(numar|nr)\b',
+]
+RF_SECRECY = [
+    '\bnu(-i| ii| le)? spune(ti)? (lui|nimanui|la nimeni|mamei|tatei|celorlalti)',
+    '\bnu-i spune\b', '\bnu le spune\b', 'ramana intre noi', '\be un secret\b',
+    'pastrati secret', 'nu vorbiti cu nimeni', 'nu sunati la banca',
+]
+RF_TOO_GOOD = [
+    '\bfelicitari\b', '\bcastig\w*', '\bati fost ales', '\bpremiu\w*', '\btombola\b',
+    '\bgarantat\w*', '\bprofit\w*', '\brandament\w*', '\bbani (usori|rapizi)\b', '\bvesti bune\b',
+]
+RF_URGENCY = [
+    '\burgent\w*', '\bimediat\b', '\bin (cel mult )?\d+ ?(h|ore|ora|minute|min)\b', '\bintr-o ora\b',
+    '\bpana (la|pe|in) (data de )?\d', '\bexpira\w*', '\bgrabiti-va\b', '\bgrabeste-te\b',
+    '\bcat mai repede\b', '\bultima (zi|sansa)\b',
+]
+RF_THREAT = [
+    '\bblocat\w*', '\bblocare\w*', '\bsuspendat\w*', '\bamenda\b', '\bamenzi\b', '\binchisoare\b',
+    '\bdosar penal\b', '\bexecutare silita\b', '\bvirus\w*', '\bsechestru\b',
+]
+# Phrases, not bare words: "medicul de gardă de la Spitalul Județean" alone is an introduction, not pressure.
+RF_EMOTIONAL_PRESSURE = [
+    '\b(am|a|ai|au) (facut|avut) un accident\b', '\b(e|este|a ajuns) (internat\w*|la spital|in spital)\b',
+    '\barestat\w*', '\bdisperat\w*', '\bplang\b', '\bajuta-ma\b', '\be grav\b',
+]
+# ("in pericol" removed: on dev it was about accounts, "contul este în pericol", i.e. a threat, not emotion)
+RF_CHANNEL_SWITCH = [
+    '\b(vorbim|scrie-mi|scrieti-mi|continuam|adauga-ma|adaugati-ma|contacteaza-ma|contactati-ma|mutam)\b[^.!?]{0,30}\b(telegram|signal|whatsapp|viber|messenger)\b',
+]

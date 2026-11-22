@@ -1,0 +1,16 @@
+{
+  "id": "T1724",
+  "channel": "whatsapp",
+  "sender": {
+    "name": "Alex",
+    "address": "+40 7xx xxx 555",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "https://www.instagram.com/reel/C9xLmPqR2tA/?igsh=MzRlODBiNWFlZA=="
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "E0183",
+  "channel": "email",
+  "sender": {
+    "name": "CurierExpres",
+    "address": "noreply@curierexpres.ro",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "CurierExpres - Coletul dvs.: Livrarea coletului 85651672 este programata azi. Pentru reprogramare, sunati la 0800 300 400."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Ok"
+    }
+  ]
+}

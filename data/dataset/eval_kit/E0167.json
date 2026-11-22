@@ -1,0 +1,26 @@
+{
+  "id": "E0167",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 918",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Alertă de securitate Microsoft: Actualizare de securitate disponibilă. Detalii pe mircosoft.ro/deblocare Mulțumesc!"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "De unde aveți numărul meu?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Ați primit linkul?"
+    }
+  ]
+}

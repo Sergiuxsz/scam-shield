@@ -1,0 +1,16 @@
+{
+  "id": "E0227",
+  "channel": "email",
+  "sender": {
+    "name": "CarieraPlus",
+    "address": "info@carieraplus-notificari.com",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Angajam in Norvegia cu 3.500 euro pe luna. Taxa de dosar si transport e 29,90 lei. Trimiteti copie dupa buletin si datele contului bancar. Pastrati discretia, e un job confidential."
+    }
+  ]
+}

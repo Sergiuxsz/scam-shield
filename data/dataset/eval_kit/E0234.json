@@ -1,0 +1,16 @@
+{
+  "id": "E0234",
+  "channel": "sms",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 256",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Salut mamă, mi-am schimbat numărul, ăsta e acum. Plătește-mi te rog o factură de 1.590 lei, îți trimit detaliile. Scrie la detalii «împrumut». Ține asta pentru tine, da? Sunt la spital și mi-e foarte frică. Cât mai repede, te rog!"
+    }
+  ]
+}

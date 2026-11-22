@@ -1,0 +1,16 @@
+{
+  "id": "E0271",
+  "channel": "sms",
+  "sender": {
+    "name": "MegaShop",
+    "address": "MegaShop",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "MegaShop: Mulțumim pentru comandă! Factura este în contul tău. O zi bună! Vă dorim o zi frumoasă! Mulțumesc!"
+    }
+  ]
+}

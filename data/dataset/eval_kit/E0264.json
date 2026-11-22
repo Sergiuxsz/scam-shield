@@ -1,0 +1,16 @@
+{
+  "id": "E0264",
+  "channel": "sms",
+  "sender": {
+    "name": "ANAF",
+    "address": "ANAF",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Stimate cetățean, ANAF vă informează: Numele dvs. va fi trecut pe lista datornicilor. Trimiteți plata în contul RO63NZNL 1050 1030 6392 4225. Ultima zi de plată: azi."
+    }
+  ]
+}

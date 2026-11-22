@@ -1,0 +1,31 @@
+{
+  "id": "E0138",
+  "channel": "chat",
+  "sender": {
+    "name": "Cumpărător PiațaMea",
+    "address": "buyer_83212",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Buna ziua, ma inttereseaza chitara. Mai e?"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Buna ziua, da."
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Pretul e negociabil?"
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Pretul e fix."
+    }
+  ]
+}

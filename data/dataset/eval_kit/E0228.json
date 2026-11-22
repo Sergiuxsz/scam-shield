@@ -1,0 +1,26 @@
+{
+  "id": "E0228",
+  "channel": "chat",
+  "sender": {
+    "name": "Cumpărător PiațaMea",
+    "address": "client_95971",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "bună ziua, e disponibil produsul din anunţ?"
+    },
+    {
+      "n": 2,
+      "from": "sender",
+      "text": "preţul e negociabil? curierul a fost comandat, confirmaţi pe https://piatamea.ro.incasare-client.online"
+    },
+    {
+      "n": 3,
+      "from": "reader",
+      "text": "mi se pare suspect, nu continui."
+    }
+  ]
+}

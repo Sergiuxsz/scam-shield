@@ -1,0 +1,26 @@
+{
+  "id": "E0158",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 616",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "salut, sunt curier la coletnet, unde vă las coletul?"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "da, eu sunt."
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "bună ziua! taxa se plătște doar online, pe coletnet-livrare.live o zi bună!"
+    }
+  ]
+}

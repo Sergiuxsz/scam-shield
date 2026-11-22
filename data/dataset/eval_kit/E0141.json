@@ -1,0 +1,41 @@
+{
+  "id": "E0141",
+  "channel": "call_transcript",
+  "sender": {
+    "name": null,
+    "address": "+40 3xx xxx 723",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Buna ziua, va contactam de la Politia Romana, e o ancheta in curs."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Da, ce s-a intamplat?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Va rog sa ma ascultati cu atentie."
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Nu se poate!"
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "Pe numele dvs. s-a facut un credit fraudulos."
+    },
+    {
+      "n": 6,
+      "from": "reader",
+      "text": "Nu dau date la telefon. La revedere!"
+    }
+  ]
+}

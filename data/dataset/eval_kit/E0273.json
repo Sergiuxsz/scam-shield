@@ -1,0 +1,16 @@
+{
+  "id": "E0273",
+  "channel": "sms",
+  "sender": {
+    "name": "Răzvan",
+    "address": "+40 7xx xxx 686",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Super ofertă de la ModaPlus: card cadou de 500 lei gratis pentru primii 500. Trimite mesajul la 10 prieteni ca să-l primești! Se termină diseară, grăbește-te! Salută-i pe toți de la mine. 😊"
+    }
+  ]
+}

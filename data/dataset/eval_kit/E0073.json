@@ -1,0 +1,31 @@
+{
+  "id": "E0073",
+  "channel": "sms",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 926",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Mesaj important de la Banca Dunarea: S-a incercat accesarea contului dvs. dintr-o alta tara; contul va fi blocat. Actualizati datele aici: tinyurl.com/JK7un3"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Nu inteleg."
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Fara confirmare, suma se pierde."
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Nu am ceut nimic."
+    }
+  ]
+}

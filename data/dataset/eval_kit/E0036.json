@@ -1,0 +1,46 @@
+{
+  "id": "E0036",
+  "channel": "call_transcript",
+  "sender": {
+    "name": null,
+    "address": "+40 2xx xxx 284",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună ziua, vă contactăm de la Microsoft. Datele dvs. sunt furate chiar acum."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Cum adică? Ce trebuie să fac?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Durează doar câteva minute."
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Ok, ce urmează?"
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "Am nevoie să-mi dați acces la ecran prin AnyDesk."
+    },
+    {
+      "n": 6,
+      "from": "sender",
+      "text": "Vă vine un cod pe telefon, mi-l citiți?"
+    },
+    {
+      "n": 7,
+      "from": "sender",
+      "text": "Nu anunțați pe nimeni, altfel trebuie luat de la capăt."
+    }
+  ]
+}

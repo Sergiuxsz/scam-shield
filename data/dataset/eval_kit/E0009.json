@@ -1,0 +1,31 @@
+{
+  "id": "E0009",
+  "channel": "sms",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 541",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Hei tati, am schimbat numarul. Asta e cel nou."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Ce numar e asta?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Eu sunt, Stefan! Vin diseara pe la voi, vrei sa iau ceva de la magazin? Vorbim mai tarziu."
+    },
+    {
+      "n": 4,
+      "from": "sender",
+      "text": "Scrie la detalii «imprumut»."
+    }
+  ]
+}

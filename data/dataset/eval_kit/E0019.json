@@ -1,0 +1,41 @@
+{
+  "id": "E0019",
+  "channel": "chat",
+  "sender": {
+    "name": "Cumpărător PiațaMea",
+    "address": "buyer_79251",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Buna ziua, ma intereseaza bicicleta. Mai e? Toate cele bune."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Da, este."
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "E in stare buna?"
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Ok."
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "Curierul a fost comandat din aplicatie."
+    },
+    {
+      "n": 6,
+      "from": "reader",
+      "text": "Nu iteleg de ce trebuie datele cardului."
+    }
+  ]
+}

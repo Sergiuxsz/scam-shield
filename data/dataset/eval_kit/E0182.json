@@ -1,0 +1,36 @@
+{
+  "id": "E0182",
+  "channel": "call_transcript",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 528",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună ziua, sunt managerul dvs. de cont la EuroTrade Capital."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Bună ziua."
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Avem o ofertă exclusivă: randament 39% fără risc."
+    },
+    {
+      "n": 4,
+      "from": "sender",
+      "text": "Vă vine un cod de la bancă, mi-l spuneți ca să validez depunerea."
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "Nu spuneți familiei până nu vedeți profitul."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "E0263",
+  "channel": "chat",
+  "sender": {
+    "name": "Anna, 40",
+    "address": "anna772",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Buna, sunt Anna. Mi-ar placea sa ne cunoastem."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Salut, da, sunt din Timisoara."
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Ti-am trimis o poza cu apusul de aici."
+    },
+    {
+      "n": 4,
+      "from": "sender",
+      "text": "Esti foarte speciala pentru mine."
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "Esti singurul meu sprijin acum."
+    },
+    {
+      "n": 6,
+      "from": "sender",
+      "text": "Spitalul imi cere 1.630 lei pentru operatia fetitei."
+    },
+    {
+      "n": 7,
+      "from": "reader",
+      "text": "Nu sunt interesat, multumesc."
+    }
+  ]
+}

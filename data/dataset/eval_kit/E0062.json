@@ -1,0 +1,46 @@
+{
+  "id": "E0062",
+  "channel": "chat",
+  "sender": {
+    "name": "Proprietar PiațaMea",
+    "address": "buyer_19250",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Buna ziua, da, se poate inchiria de la 1 ale lunii. ❤️"
+    },
+    {
+      "n": 2,
+      "from": "sender",
+      "text": "Sunt plecat in Danemarca cu serviciul. ❤️"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Chiria e 1.250 lei, cu tot cu utilitati. 🙏"
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Si cum facem cu vizionarea? ❤️"
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "Scrieti-mi pe e-mail, nu intru pe site."
+    },
+    {
+      "n": 6,
+      "from": "sender",
+      "text": "Trimiteti garantia de 1.250 lei si va trimit cheile prin curier."
+    },
+    {
+      "n": 7,
+      "from": "sender",
+      "text": "Mai sunt doi interesati, decideti azi."
+    }
+  ]
+}

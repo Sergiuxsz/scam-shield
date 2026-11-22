@@ -1,0 +1,16 @@
+{
+  "id": "E0108",
+  "channel": "sms",
+  "sender": {
+    "name": "BancaDunarea",
+    "address": "BancaDunarea",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Banca Dunărea vă informează: Contul dvs. prezintă o neregulă şi poate fi blocat."
+    }
+  ]
+}

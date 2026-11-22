@@ -1,0 +1,31 @@
+{
+  "id": "E0055",
+  "channel": "sms",
+  "sender": {
+    "name": "Roxana",
+    "address": "+40 7xx xxx 772",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Tataie, ai văztu ce frumos e afară? Ne vedem în weekend, sper. Te pup!"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Bună puiule!"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Ce să-i luăm lui Șefan de ziua lui?"
+    },
+    {
+      "n": 4,
+      "from": "sender",
+      "text": "Codul de la wifi e pe frigider."
+    }
+  ]
+}

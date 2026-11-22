@@ -1,0 +1,16 @@
+{
+  "id": "E0200",
+  "channel": "sms",
+  "sender": {
+    "name": "ANAF",
+    "address": "ANAF",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună ziua, ANAF Rambursări: suma de 1.920 lei urmează să vă fie restituită. Pentru încasare, confirmați datele bancare pe anaf.ro.plata-client.com/deblocare Dacă nu completați până pe 03.09, suma se anulează. Respectuos, departamentul relații clienți."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "E0056",
+  "channel": "sms",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 846",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună, am tercut la alt operator şi am număr nou. Pupici! Ai grijă de tine."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Super, ne vedem!"
+    }
+  ]
+}

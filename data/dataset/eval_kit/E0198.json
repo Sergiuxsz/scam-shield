@@ -1,0 +1,16 @@
+{
+  "id": "E0198",
+  "channel": "whatsapp",
+  "sender": {
+    "name": "Matei (soră)",
+    "address": "+40 7xx xxx 878",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună mami! Nu-i zice lui Matei că venim, vrem să-l surprindem. Vorbim mai târziu. Vorbim mai târziu. Aici plouă de azi-dimineață, tu ce faci?"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "E0023",
+  "channel": "call_transcript",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 898",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună ziua, Georgiana Popescu de la ColetNet, am coletul dvs. în mașină."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Da, eu sunt."
+    }
+  ]
+}

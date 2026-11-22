@@ -1,0 +1,21 @@
+{
+  "id": "E0107",
+  "channel": "sms",
+  "sender": {
+    "name": "BancaDunarea",
+    "address": "BancaDunarea",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Mesaj important de la Banca Dunarea: S-a efectuat o autentificare reusita in Dunarea Mobile. Actualizati datele din aplicatia Dunarea Mobile."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Nu inteleg."
+    }
+  ]
+}

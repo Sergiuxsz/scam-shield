@@ -1,0 +1,31 @@
+{
+  "id": "E0076",
+  "channel": "sms",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 292",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună ziua, vă sun de la TelNova, departamentul clienți."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Da."
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Pentru activarea eSIM-ului, citiți-mi codul primit prin SMS. Mulțumesc!"
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Stați să văd mesajul."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "E0093",
+  "channel": "email",
+  "sender": {
+    "name": "Cristina (vecina)",
+    "address": "cristina.constantin@gmail.com",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Numarul meu de la serviciu s-a schimbat, cel personal nu. Sa ai o zi frumoasa!"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Ok"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "E0119",
+  "channel": "whatsapp",
+  "sender": {
+    "name": "Tata",
+    "address": "+40 7xx xxx 287",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună tataie! Să ai o zi frumoasă! Pupici! Sper că ești bine."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Hei!"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Ai reușit să instalezi aplicația școlii pe telefon?"
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Suuper"
+    }
+  ]
+}

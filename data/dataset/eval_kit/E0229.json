@@ -1,0 +1,16 @@
+{
+  "id": "E0229",
+  "channel": "sms",
+  "sender": {
+    "name": "TelNova",
+    "address": "TelNova",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Notificare TelNova: Contractul dvs. va fi reziliat, iar suma trimisă la recuperare. Introduceţi datele cardului pe talnova.ro pentru returnare. Aveţi 48 ore."
+    }
+  ]
+}

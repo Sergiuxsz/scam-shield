@@ -1,0 +1,16 @@
+{
+  "id": "E0282",
+  "channel": "sms",
+  "sender": {
+    "name": "CurierExpres",
+    "address": "CurierExpres",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Stimate client, CurierExpres: Livrarea coletului 21736919 a eșuat. Instalați aplicația de pe https://curierexpres.ro.reprogramare-ro.online, altfel nu puteți alege data. Fără plată, coletul nu mai poate fi recuperat."
+    }
+  ]
+}

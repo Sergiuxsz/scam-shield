@@ -1,0 +1,46 @@
+{
+  "id": "E0209",
+  "channel": "call_transcript",
+  "sender": {
+    "name": null,
+    "address": "+40 3xx xxx 305",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună ziua, MegaShop aici. Ați cumpărat recent de la noi?"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Bună ziua, spuneți."
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Vă felicit!"
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Nu-mi vine să cred!"
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "Ați fost foarte norocos."
+    },
+    {
+      "n": 6,
+      "from": "sender",
+      "text": "Ați primit un voucher de 3.150 lei."
+    },
+    {
+      "n": 7,
+      "from": "sender",
+      "text": "Îmi confirmați datele cardului pentru taxa de transport?"
+    }
+  ]
+}

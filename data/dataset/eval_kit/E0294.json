@@ -1,0 +1,16 @@
+{
+  "id": "E0294",
+  "channel": "sms",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 579",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună, mama! Mi-a căzut telefonul în apă, scriu de pe numărul nou. Trebuie să acht până la 9:00 o factuură de 2.690 lei și nu am accse la cont. Mă ajuți? Scrie la detalii «împrumut». Să nu afle tata, te rog."
+    }
+  ]
+}

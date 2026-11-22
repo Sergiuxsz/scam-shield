@@ -1,0 +1,21 @@
+{
+  "id": "E0145",
+  "channel": "chat",
+  "sender": {
+    "name": "Roxana",
+    "address": "+40 7xx xxx 818",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Am pus numarul tau la verificare, ti-a venit un cod. Mi-l scrii?"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Nu sunt interesat, multumesc."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "E0153",
+  "channel": "email",
+  "sender": {
+    "name": "ANAF",
+    "address": "noreply@anaf.ro",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Notificare ANAF: în urma recalculării, aveți de primit 2.440 lei. Suma ajunge în contul dvs. în 30 de zile. ANAF nu solicită niciodată datele cardului. Pentru mai multe informații, consultați termenii și condițiile."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Ce trbeuie să fac?"
+    }
+  ]
+}

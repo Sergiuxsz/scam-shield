@@ -1,0 +1,31 @@
+{
+  "id": "E0124",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 661",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Salut mamaie, mi-am schimbat numărul, ăsta e acum."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Ce număr e ăsta?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Eu sunt, Cristina!"
+    },
+    {
+      "n": 4,
+      "from": "sender",
+      "text": "Toate bune pe acolo?"
+    }
+  ]
+}

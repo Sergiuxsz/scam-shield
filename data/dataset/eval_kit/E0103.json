@@ -1,0 +1,31 @@
+{
+  "id": "E0103",
+  "channel": "call_transcript",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 858",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Salut, sunt curier la PoștaRo, unde vă las coletul?"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Da, eu sunt."
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Taxa se plătește doar online, pe tracking-ro.xyz/confirmare"
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Nu sunt interesat, mersi."
+    }
+  ]
+}

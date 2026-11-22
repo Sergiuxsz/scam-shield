@@ -1,0 +1,26 @@
+{
+  "id": "E0274",
+  "channel": "whatsapp",
+  "sender": {
+    "name": "Mihai (serviciu)",
+    "address": "+40 7xx xxx 367",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Hei, ce faci? Aici plouă de azi-dimineață, tu ce faci? Te pup! Salută-i pe toți de la mine."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Da, zi."
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Mi s-a sppart contul de Facebook, dacă primești mesaje de la mine, ignoră-le!"
+    }
+  ]
+}

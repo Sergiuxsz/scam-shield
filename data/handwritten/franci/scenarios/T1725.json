@@ -1,0 +1,16 @@
+{
+  "id": "T1725",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 666",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Salut! Sunt eu, Vlad, mi-am schimbat numarul azi ca mi-am portat abonamentul si am ramas cu cartela asta noua. Salveaza-l te rog. Apropo, ramane valabil pentru diseara la 8 la berarie, nu?"
+    }
+  ]
+}

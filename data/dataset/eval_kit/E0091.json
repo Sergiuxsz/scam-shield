@@ -1,0 +1,16 @@
+{
+  "id": "E0091",
+  "channel": "sms",
+  "sender": {
+    "name": "CurierExpres",
+    "address": "CurierExpres",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Stimate client, CurierExpres: Am încercat să livrăm coletul, dar nu aţi răspuns. Urmăriţi coletul pe https://curierexpres-reprogramare.org/formular Fără plată, coletul nu mai poate fi recuperat. Ultima zi pentru plată: azi."
+    }
+  ]
+}

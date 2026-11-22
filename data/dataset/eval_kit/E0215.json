@@ -1,0 +1,56 @@
+{
+  "id": "E0215",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 818",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună, sunt Michael. Mi-ar plăeca să ne cunoaștem. Salută-i pe toți de la mine."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Bună! Mersi."
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Lucrez în construcții în Germania, vin acasă rar."
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Și eu mă gnâdesc la tine."
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "Ți-am trimis o poză cu apusul de aici."
+    },
+    {
+      "n": 6,
+      "from": "sender",
+      "text": "Aplicația asta mă deconecetază mereu, scrie-mi pe Telegram."
+    },
+    {
+      "n": 7,
+      "from": "sender",
+      "text": "Ești singurul meu sprijin acum. Spitalul îmi cere 1.240 lei pentru operația fetiței."
+    },
+    {
+      "n": 8,
+      "from": "reader",
+      "text": "Sincer, mi se pare ciudat."
+    },
+    {
+      "n": 9,
+      "from": "sender",
+      "text": "Te rog, acum."
+    }
+  ]
+}

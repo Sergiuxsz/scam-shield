@@ -1,0 +1,41 @@
+{
+  "id": "E0126",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 442",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Buna ziua, TelNova aici. Cartela dvs. trebuie actualizata."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Ce s-a intamplat?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Este o procedura gratuita."
+    },
+    {
+      "n": 4,
+      "from": "sender",
+      "text": "Dureaza doua minute."
+    },
+    {
+      "n": 5,
+      "from": "reader",
+      "text": "Bine."
+    },
+    {
+      "n": 6,
+      "from": "sender",
+      "text": "Am nevoie de datele cardului cu care platiti abonamentul. O zi buna!"
+    }
+  ]
+}

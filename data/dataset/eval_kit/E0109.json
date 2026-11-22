@@ -1,0 +1,41 @@
+{
+  "id": "E0109",
+  "channel": "call_transcript",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 860",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună ziua, sunt managerul dvs. de cont la EuroTrade Capital."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Da, spuneți."
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Aveți contul activ, doar că e gol."
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Și e sigur?"
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "Avem o ofertă exclusivă: randament 45% fără risc."
+    },
+    {
+      "n": 6,
+      "from": "reader",
+      "text": "Sun eu la numrul oficial."
+    }
+  ]
+}

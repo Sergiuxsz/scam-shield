@@ -1,0 +1,16 @@
+{
+  "id": "E0250",
+  "channel": "sms",
+  "sender": {
+    "name": "Mihai (serviciu)",
+    "address": "+40 7xx xxx 258",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Am pus numărul tău la verificare, ţi-a venit un cod. Mi-l scrii? Acum, te rog!"
+    }
+  ]
+}

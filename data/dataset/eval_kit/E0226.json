@@ -1,0 +1,16 @@
+{
+  "id": "E0226",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 141",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Mesaj important de la Banca Dunărea: Am detectat o tranzacție suspectă de 3.080 lei, iar cardul va fi blocat. Detalii și deblocare: bancadunarea-client.xyz Este necesar să faceți asta chiar acum. O zi bună! 😢"
+    }
+  ]
+}

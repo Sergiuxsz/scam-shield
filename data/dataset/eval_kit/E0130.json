@@ -1,0 +1,31 @@
+{
+  "id": "E0130",
+  "channel": "sms",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 288",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Instagram: Cineva încearcă să vă acceseze contul. Răspundeți cu codul primit ca să vă păstrați contul. Urgent: termen limită 02.06. Vă mulțumim că sunteți alături de noi."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "De unde aveți nuămrul meu?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Revin cu rugămintea de mai sus."
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Staiț puțin."
+    }
+  ]
+}

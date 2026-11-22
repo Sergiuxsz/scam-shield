@@ -1,0 +1,16 @@
+{
+  "id": "E0258",
+  "channel": "email",
+  "sender": {
+    "name": "Banca Dunărea",
+    "address": "contact@bancadunarea-online.online",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Departamentul de securitate Banca Dunărea: S-a încercat accesarea contului dvs. dintr-o altă țară; contul va fi blocat. Detalii și deblocare: bancadunarea-online.online/deblocare Este necesar să faceți asta chiar acum."
+    }
+  ]
+}

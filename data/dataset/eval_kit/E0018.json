@@ -1,0 +1,36 @@
+{
+  "id": "E0018",
+  "channel": "sms",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 795",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "ANAF - Spatiul Privat Virtual: figurati cu o suma de recuperat de 2.540 lei. Pentru incasare, confirmati datele bancare pe anaf.ro.amenzi-client.xyz Respectuos, departamentul relatii clienti."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "stati putin."
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Ati primit linkul?"
+    },
+    {
+      "n": 4,
+      "from": "sender",
+      "text": "Revin cu rugamintea de mai sus."
+    },
+    {
+      "n": 5,
+      "from": "reader",
+      "text": "ok"
+    }
+  ]
+}

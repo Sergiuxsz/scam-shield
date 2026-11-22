@@ -1,0 +1,26 @@
+{
+  "id": "E0276",
+  "channel": "email",
+  "sender": {
+    "name": "Tata",
+    "address": "tata.matei@gmail.com",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună tati!"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Bine, tu?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Nu știu să insalez imprimanta, vii tu sâmbătă?"
+    }
+  ]
+}

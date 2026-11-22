@@ -1,0 +1,36 @@
+{
+  "id": "E0060",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 815",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună, am trecut la alt operator şi am număr nou. Pupici! Mersi mult! Vorbim mai târziu. Abia aştept să ne vedem."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Ok, l-am salvat."
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Ţi-am trimis şi pe mail pozele."
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "A, bine."
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "Ne auzim mâine."
+    }
+  ]
+}

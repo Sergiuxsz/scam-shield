@@ -1,0 +1,16 @@
+{
+  "id": "E0257",
+  "channel": "sms",
+  "sender": {
+    "name": "CurierExpres",
+    "address": "CurierExpres",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Stimate client, CurierExpres: Livrarea coletului 52212391 este programată azi. Urmăriți coletul pe curierexpres.ro"
+    }
+  ]
+}

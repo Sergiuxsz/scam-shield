@@ -1,0 +1,51 @@
+{
+  "id": "E0011",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 953",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună ziua, vă contactăm de la Windows. Datele dvs. sunt furate cihar acum."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Serios? Nu știam."
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Durrează doar câteva minute."
+    },
+    {
+      "n": 4,
+      "from": "sender",
+      "text": "Intrați pe site-ul AnyDesk și instalați aplicația, ca să vă curăț calculatorul."
+    },
+    {
+      "n": 5,
+      "from": "reader",
+      "text": "Ok, mă uit acum."
+    },
+    {
+      "n": 6,
+      "from": "sender",
+      "text": "Spuneți-mi parola de la e-mail, ca să-l securizez."
+    },
+    {
+      "n": 7,
+      "from": "reader",
+      "text": "Siugr e în regulă?"
+    },
+    {
+      "n": 8,
+      "from": "sender",
+      "text": "Trebuie făct acum."
+    }
+  ]
+}

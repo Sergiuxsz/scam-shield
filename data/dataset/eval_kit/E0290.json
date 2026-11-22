@@ -1,0 +1,61 @@
+{
+  "id": "E0290",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 743",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Buna ziua, Cristina Moldovan, Banca Mures. Aveti un minut? E important."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Buna ziua, ce s-a intamplat?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Buna ziua, Vedeti ultimele tranzactii in aplicatie? Seara frumoasa!"
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Cum adica?"
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "Contul dvs. a fost compromis, iar un creedit de 4.610 lei a fost cerut pe numle dvs."
+    },
+    {
+      "n": 6,
+      "from": "reader",
+      "text": "Si ce fac acum?"
+    },
+    {
+      "n": 7,
+      "from": "sender",
+      "text": "Fcaeti un transfer de verificare de 4.610 lei, vi-i reeturnam in 24 de ore."
+    },
+    {
+      "n": 8,
+      "from": "reader",
+      "text": "Sigur e in regula?"
+    },
+    {
+      "n": 9,
+      "from": "sender",
+      "text": "Daca aseptati pana maine, va fi prea tarziu."
+    },
+    {
+      "n": 10,
+      "from": "reader",
+      "text": "Cum adica?"
+    }
+  ]
+}

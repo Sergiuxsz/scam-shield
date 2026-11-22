@@ -1,0 +1,26 @@
+{
+  "id": "E0253",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 625",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Banca Arieș: Versiunea actuală a aplicației va fi dezactivată. Instalați aplicația de verificare: bancaaries-online.com și permiteți accesul la ecran. Este necesar să faceți asta chiar acum."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Ați finalizat? Mulțumesc frumos."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "E0127",
+  "channel": "email",
+  "sender": {
+    "name": "RapidColet",
+    "address": "suport@rapidcolet-reprogramare.com",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Stimate client, RapidColet: Am încercat să livrăm coletul, dar nu ați răspuns. Pe rapidcolet-reprogramare.com completați codul de confirmare primit prin SMS. Fără plată, coletul nu mai poate fi recuperat. Ultima zi pentru plată: azi."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "E0042",
+  "channel": "chat",
+  "sender": {
+    "name": "Cumpărător PiațaMea",
+    "address": "seller_55343",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună ziua, mă interesează căruciorul. Mai e?"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Bună ziua, da."
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Am comandat prin Livrare Sigură. Curierul vine să ridice de la dvs. Aștept răspunsul dvs."
+    }
+  ]
+}

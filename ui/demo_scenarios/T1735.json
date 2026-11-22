@@ -1,0 +1,26 @@
+{
+  "id": "T1735",
+  "channel": "email",
+  "sender": {
+    "name": null,
+    "address": "sergiu@firma-noastra-ro.com",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Hey, pentru ce am discutat azi pe proiect: au trimis un patch nou / documentul actualizat pe care trebuie să-l ruleze toată lumea înainte de deploy. Descarcă arhiva de aici și pornește installerul: https://files-share-sync.com/update_client.exe"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Okay, dar de ce nu mi-ai scris pe teams-ul nostru?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Scuze, am zis să dau direct aici ca să fie mai rapid că îmi mergea prost teams-ul și mă grăbeam să prind deploy-ul. Rulează-l doar rapid și zi-mi dacă îți dă vreo eroare."
+    }
+  ]
+}

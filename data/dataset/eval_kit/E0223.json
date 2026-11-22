@@ -1,0 +1,16 @@
+{
+  "id": "E0223",
+  "channel": "sms",
+  "sender": {
+    "name": "BancaDunarea",
+    "address": "BancaDunarea",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Departamentul de securitate Banca Dunărea: S-a încercat accesarea contului dvs. dintr-o altă țară; contul va fi blocat. Detalii și deblocare: https://bancadunarea.ro.verificare-client.top"
+    }
+  ]
+}

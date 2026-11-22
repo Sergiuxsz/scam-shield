@@ -1,0 +1,16 @@
+{
+  "id": "T1711",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 123",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Dorești o sursă suplimentară de venit într-un mod ușor și fără stres? Acceptă această ofertă din partea Youtube Romania și câștigă 300-500 lei pe zi dând like-uri pe YouTube. Răspundeți la acest mesaj dacă sunteți interesat."
+    }
+  ]
+}

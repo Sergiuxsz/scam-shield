@@ -1,0 +1,46 @@
+{
+  "id": "E0123",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 472",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Buna ziua, sunt managerul dvs. de cont la CryptoRo Invest."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Da, spuneti."
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Aveti contul activ, doar ca e gol."
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Si e sigur?"
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "Avem o oferta exclusiva: randament 28% fara risc."
+    },
+    {
+      "n": 6,
+      "from": "reader",
+      "text": "Si e sigur?"
+    },
+    {
+      "n": 7,
+      "from": "sender",
+      "text": "Instalati RustDesk, ca sa va ajut sa deschideti contul."
+    }
+  ]
+}

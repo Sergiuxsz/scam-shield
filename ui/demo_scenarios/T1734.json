@@ -1,0 +1,21 @@
+{
+  "id": "T1734",
+  "channel": "email",
+  "sender": {
+    "name": null,
+    "address": "sergiu.colet@gmail.com",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună, sunt Sergiu. Mi-a venit mesaj că a rămas un colet la curier cu adresa incompletă și trebuie achitată o diferență de 7 lei ca să nu-l trimită înapoi. Vezi aici detaliile: https://livrare-colet-status.com/pay"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Cine e?"
+    }
+  ]
+}

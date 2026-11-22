@@ -1,0 +1,56 @@
+{
+  "id": "E0287",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 132",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună, garsoniera mai e liberă. Seară frumoasă!"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Bună ziua, pot să-l văd?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Sunt plecat în Itallia cu serviciul."
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Ok."
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "E un preț foarte mic pt zonă, știu, vreeau doar oameni de încredere."
+    },
+    {
+      "n": 6,
+      "from": "sender",
+      "text": "Hai să voribm pe Telegram."
+    },
+    {
+      "n": 7,
+      "from": "sender",
+      "text": "Pltăiți prima chirie în contul RO21PENN 8709 2744 7614 2151 și vă trmit contractul."
+    },
+    {
+      "n": 8,
+      "from": "reader",
+      "text": "Ok."
+    },
+    {
+      "n": 9,
+      "from": "sender",
+      "text": "Dacă nu trimiteți până diseară, îl dau altcuiva."
+    }
+  ]
+}

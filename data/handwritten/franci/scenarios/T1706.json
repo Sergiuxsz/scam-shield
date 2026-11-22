@@ -1,0 +1,16 @@
+{
+  "id": "T1706",
+  "channel": "email",
+  "sender": {
+    "name": "ANAF",
+    "address": "noreply@anaf.ro",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Aveți o datorie fiscală restantă. Pentru a evita instituirea popririi pe conturile bancare începând de mâine, consultați decizia de impunere și efectuați plata online link-plati-anaf.ro"
+    }
+  ]
+}

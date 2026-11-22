@@ -1,0 +1,36 @@
+{
+  "id": "E0002",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 336",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "hei, sunt cristina, am număr nou de la serviciu. sper că ești bine. abia aștept să ne vedem. aici plouă de azi-dimineață, tu ce faci?"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "bună! cine ești?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "ți-am trimis și pe mail pozele."
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "a, bine."
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "ne auzim mâine."
+    }
+  ]
+}

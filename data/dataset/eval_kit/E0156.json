@@ -1,0 +1,16 @@
+{
+  "id": "E0156",
+  "channel": "sms",
+  "sender": {
+    "name": "BancaDunarea",
+    "address": "BancaDunarea",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Departamentul de securitate Banca Dunarea: Contul dvs. a fost alimentat cu 2.560 lei. Verificati contul in aplicatia oficiala sau pe https://bancadunarea.ro/ajutor."
+    }
+  ]
+}

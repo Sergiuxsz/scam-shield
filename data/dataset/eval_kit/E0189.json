@@ -1,0 +1,41 @@
+{
+  "id": "E0189",
+  "channel": "call_transcript",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 651",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună ziua, vă sun de la TehnoMax, departamentul de marketing."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Bună ziua, spuneți."
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Ați fost foarte norocos."
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Serios?"
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "Ați primit un voucher de 1.850 lei."
+    },
+    {
+      "n": 6,
+      "from": "sender",
+      "text": "Trebuie doar să achitați taxa de rezervare de 203,30 lei."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "E0099",
+  "channel": "sms",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 979",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună ziua, TelNova aici. Cartela dvs. trebuie actualizată. Cu stimă, echipa TelNova."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Da, am abonament. ❤️"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Am nevoie de datele cardului cu care plătiți abonamentul."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "E0280",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 549",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună ziua, sunt managerul dvs. de cont la CryptoRo Invest. Tooate cele bune."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Bună ziua."
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Piața e fooarte bună acum."
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Sună prea frumos."
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "Aveți contul activ, doar că e gol."
+    },
+    {
+      "n": 6,
+      "from": "reader",
+      "text": "Cât am făcut?"
+    }
+  ]
+}

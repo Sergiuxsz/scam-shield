@@ -1,0 +1,16 @@
+{
+  "id": "E0114",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 286",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Salut tati, mi-am schimbat numărul, ăsta e acum. Trebuie să achit până la 14:00 o factură de 4.600 lei şi nu am acces la cont. Mă ajuţi? Scrie la detalii «împrumut». Sunt la spital şi mi-e foarte frică."
+    }
+  ]
+}

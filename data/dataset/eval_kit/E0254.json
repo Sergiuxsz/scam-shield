@@ -1,0 +1,41 @@
+{
+  "id": "E0254",
+  "channel": "sms",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 859",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "FinPlus vă informează: Aveţi un mesaj nou în cont: finplus.ro.deblocare-client.net Aştept răspunsul dvs."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Stai puţin."
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Fără confirmare, suma se pierde."
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Cine sunteţi?"
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "Vă scriem pe WhatsApp cu paşii următori."
+    },
+    {
+      "n": 6,
+      "from": "reader",
+      "text": "Staţi puţin."
+    }
+  ]
+}

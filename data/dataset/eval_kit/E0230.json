@@ -1,0 +1,31 @@
+{
+  "id": "E0230",
+  "channel": "email",
+  "sender": {
+    "name": "ANAF Clienți",
+    "address": "info@anaf.ro.verificare-ro.live",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "ANAF Rambursări: suma de 2.880 lei urmează să vă fie restituită. Pentru încasare, confirmați datele bancare pe anaf.ro.verificare-ro.live/cont"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "De unde aveți numărul meu?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Bună ziua, Ultima notificare: azi expiră. Seară frumoasă!"
+    },
+    {
+      "n": 4,
+      "from": "sender",
+      "text": "Fără confirmare, suma se pierde."
+    }
+  ]
+}

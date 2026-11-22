@@ -1,0 +1,41 @@
+{
+  "id": "E0281",
+  "channel": "chat",
+  "sender": {
+    "name": "Cumpărător PiațaMea",
+    "address": "buyer_26936",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună ziua, e disponibil produsul din anunț?"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Da, încă e disponibilă."
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "E în stare bună? O zi bună!"
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Da, e în stare f bună."
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "Comanda apare pe piatamea.ro/ajutor."
+    },
+    {
+      "n": 6,
+      "from": "reader",
+      "text": "Nu înțeleg dc trebuie datele cardului."
+    }
+  ]
+}

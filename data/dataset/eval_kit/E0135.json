@@ -1,0 +1,16 @@
+{
+  "id": "E0135",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 666",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună ziua! Departamentul de securitate Banca Dunărea: S-a efectuat o autentificare reușită în Dunărea Mobile. Pentru întrebări, sunați la 0800 100 200. Seară frumoasă!"
+    }
+  ]
+}

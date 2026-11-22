@@ -1,0 +1,16 @@
+{
+  "id": "E0022",
+  "channel": "sms",
+  "sender": {
+    "name": "PostaRo",
+    "address": "PostaRo",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Stimate client, PostaRo: Am incercat sa livram coletul, dar nu ati raspuns. Instalati aplicatia de pe colet-online.xyz/plata, altfel nu puteti alege data. Fara plata, coletul nu mai poate fi recuperat."
+    }
+  ]
+}

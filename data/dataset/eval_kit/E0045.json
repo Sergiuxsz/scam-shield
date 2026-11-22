@@ -1,0 +1,26 @@
+{
+  "id": "E0045",
+  "channel": "chat",
+  "sender": {
+    "name": "Cumpărător PiațaMea",
+    "address": "user_92932",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună ziua, mă interesează rochia de mireasă. Mai e? 😢"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Da, încă e disponibilă."
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Bună ziua! Curierul a fost comandat, confirmați pe t.ly/d3hNCA Mulțumesc frumos."
+    }
+  ]
+}

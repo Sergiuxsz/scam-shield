@@ -1,0 +1,16 @@
+{
+  "id": "E0006",
+  "channel": "sms",
+  "sender": {
+    "name": "EnergiaPlus",
+    "address": "EnergiaPlus",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Notificare EnergiaPlus: Ati castigat un an de abonament gratuit. Descarcati aplicatia EnergiaPlus actualizata de pe https://energiaplus-debranșare.site si permiteti accesul."
+    }
+  ]
+}

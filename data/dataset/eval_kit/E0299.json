@@ -1,0 +1,56 @@
+{
+  "id": "E0299",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 905",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "buna, ce nume frums ai."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "salut, da, sunt din iasi."
+    },
+    {
+      "n": 3,
+      "from": "reader",
+      "text": "suna frumos."
+    },
+    {
+      "n": 4,
+      "from": "sender",
+      "text": "aplicatia asta ma deconectezaa mereu, scrie-mi pe telegram."
+    },
+    {
+      "n": 5,
+      "from": "reader",
+      "text": "suna frumos."
+    },
+    {
+      "n": 6,
+      "from": "sender",
+      "text": "hei, esti singuul meu sprijin acum. vorbim mai tarziu."
+    },
+    {
+      "n": 7,
+      "from": "sender",
+      "text": "am un pachet cu bijuteiri si 13.000 euro penrtu noi, dar trebuie platita vama de 3.930 lei."
+    },
+    {
+      "n": 8,
+      "from": "reader",
+      "text": "ok, iti trimit."
+    },
+    {
+      "n": 9,
+      "from": "sender",
+      "text": "nu spune familiei tale, n-ar intelege."
+    }
+  ]
+}

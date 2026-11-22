@@ -1,0 +1,31 @@
+{
+  "id": "E0176",
+  "channel": "chat",
+  "sender": {
+    "name": "Vânzător VindeRapid",
+    "address": "client_34396",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Da, încă e. Am mai mulți interesați. Seară frumoasă!"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Pot veni s-o văd?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Continuăm pe Telegram, vă rog."
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Arată bine."
+    }
+  ]
+}

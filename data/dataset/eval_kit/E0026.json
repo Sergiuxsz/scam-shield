@@ -1,0 +1,26 @@
+{
+  "id": "E0026",
+  "channel": "email",
+  "sender": {
+    "name": "Elena",
+    "address": "elena.ene@outlook.com",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Hei, ce faci? Ne vedem în weekend, sper."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Bine, tu?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Am primit amendă de parcare, am plătit-o la ghișeu."
+    }
+  ]
+}

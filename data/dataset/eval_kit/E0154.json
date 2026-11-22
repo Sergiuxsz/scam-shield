@@ -1,0 +1,16 @@
+{
+  "id": "E0154",
+  "channel": "whatsapp",
+  "sender": {
+    "name": "Elena (vecina)",
+    "address": "+40 7xx xxx 192",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Fac 470 lei pe zi tsetând aplicații, e super. Înscrie-te aici: cont-plata.xyz/client"
+    }
+  ]
+}

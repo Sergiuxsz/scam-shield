@@ -1,0 +1,16 @@
+{
+  "id": "E0032",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 557",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "bună! am număr nou, salvează-mă: diana. trimite-mi te rog codul de 6 cifre pe care tocmai l-ai primit."
+    }
+  ]
+}

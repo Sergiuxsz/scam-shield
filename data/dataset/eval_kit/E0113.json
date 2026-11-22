@@ -1,0 +1,16 @@
+{
+  "id": "E0113",
+  "channel": "sms",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 459",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Câștigător confirmat: aspirator robot de la TehnoMax. Trimiteți DA ca răspuns pentru detalii."
+    }
+  ]
+}

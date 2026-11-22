@@ -1,0 +1,26 @@
+{
+  "id": "E0205",
+  "channel": "sms",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 332",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Microsoft - Centrul de securitate: Aveți un tichet de suport deschis. Detalii pe tinyurl.com/eUNQU"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Nu am cerut nimic."
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Revin cu rugămintea de mai sus."
+    }
+  ]
+}

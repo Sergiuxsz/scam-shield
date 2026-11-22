@@ -1,0 +1,26 @@
+{
+  "id": "T1722",
+  "channel": "whatsapp",
+  "sender": {
+    "name": "Mihai",
+    "address": "+40 7xx xxx 333",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Coaie, ai 150 de lei pe Revolut sa-mi trimiti fix acum? Sunt la casa la Lidl si mi-am dat seama ca am banii in contul de economii si nu mi se incarca aplicatia de la ING sa fac transfer."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Stai ca intru acum, iti dau pe userul tau obisnuit?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Da, direct pe Revolut-ul meu, mersi mult, ti-i dau inapoi cum ajung acasa!"
+    }
+  ]
+}

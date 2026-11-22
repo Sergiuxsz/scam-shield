@@ -1,0 +1,31 @@
+{
+  "id": "E0072",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 446",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună ziua, da, apartamentul e disponibil."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Ok, ce preț are?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Sunt pleat în Norvegia cu serviciul."
+    },
+    {
+      "n": 4,
+      "from": "sender",
+      "text": "E mobilat complet, ultracentral."
+    }
+  ]
+}

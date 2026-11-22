@@ -1,0 +1,16 @@
+{
+  "id": "E0179",
+  "channel": "sms",
+  "sender": {
+    "name": "RapidColet",
+    "address": "RapidColet",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "RapidColet - Coletul dvs.: Am încercat să livrăm coletul, dar nu ați răspuns. Pe rapidcolet.ro.tracking-ro.online completați codul de confirmare primit prin SMS."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "T1719",
+  "channel": "sms",
+  "sender": {
+    "name": "Vodafone",
+    "address": "1234",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Buna ziua! Va reamintim ca factura Vodafone nr. 409281726 in valoare de 78,50 RON are termenul de plata depasit. Pentru a evita suspendarea serviciilor, puteti achita rapid cu cardul in contul dvs. MyVodafone sau direct prin linkul securizat: https://www.vodafone.ro/plata-factura?id=409281726"
+    }
+  ]
+}

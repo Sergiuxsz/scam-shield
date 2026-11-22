@@ -1,0 +1,16 @@
+{
+  "id": "E0297",
+  "channel": "sms",
+  "sender": {
+    "name": "CurierExpres",
+    "address": "CurierExpres",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Stimate client, CurierExpres: Livrarea coletului 52212391 a eșuat. Urmăriți coletul pe curierexpres-plata.xyz Fără plată, coletul nu mai poate fi recuperat."
+    }
+  ]
+}

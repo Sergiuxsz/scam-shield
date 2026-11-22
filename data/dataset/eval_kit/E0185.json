@@ -1,0 +1,51 @@
+{
+  "id": "E0185",
+  "channel": "call_transcript",
+  "sender": {
+    "name": null,
+    "address": "+40 3xx xxx 315",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună ziua, vă contactăm de la Poliția Română, e o anchetă în curs."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "da, ce s-a întâmplat?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Economiile dvs. sunt în pericol, iar banca e implicată."
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "cum adică?"
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "Trebuie să faceți un transfer de 30.000 lei în contul anchetei."
+    },
+    {
+      "n": 6,
+      "from": "sender",
+      "text": "Păstrați discreția, vă rog, inclusiv față de copii."
+    },
+    {
+      "n": 7,
+      "from": "reader",
+      "text": "cum adică?"
+    },
+    {
+      "n": 8,
+      "from": "sender",
+      "text": "Gândiți-vă la nepoți, banii aceștia sunt viitorul lor."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "E0225",
+  "channel": "whatsapp",
+  "sender": {
+    "name": "Bunica",
+    "address": "+40 7xx xxx 828",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Fac 150 lei pe zi testând aplicații, e super. Intră pe grupul de Telegram, îți trimit linkul acolo. Înscrierile se închid azi. Ne vedem în weekend, sper."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Ok"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Fără confirmare, suma se pierde."
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Nu am cerut nimic."
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "Ultima notificare: azi expiră."
+    },
+    {
+      "n": 6,
+      "from": "reader",
+      "text": "Nu am cerut nimic."
+    }
+  ]
+}

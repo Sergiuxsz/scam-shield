@@ -1,0 +1,16 @@
+{
+  "id": "E0203",
+  "channel": "sms",
+  "sender": {
+    "name": "Mama",
+    "address": "+40 7xx xxx 218",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "🙏 Spune-mi când poți. Vorbim mai târziu."
+    }
+  ]
+}

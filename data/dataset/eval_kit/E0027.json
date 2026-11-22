@@ -1,0 +1,16 @@
+{
+  "id": "E0027",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 141",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Mesaj important de la Banca Dunărea: A fost autorizată o plată de 3.080 lei. Detalii la 0800 100 200 sau pe https://bancadunarea.ro/ajutor. O zi bună! 😢"
+    }
+  ]
+}

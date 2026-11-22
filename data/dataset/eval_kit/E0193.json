@@ -1,0 +1,21 @@
+{
+  "id": "E0193",
+  "channel": "chat",
+  "sender": {
+    "name": "Bianca (colega)",
+    "address": "+40 7xx xxx 560",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună seara! Nu-i zice lui Ralucca că venim, vrem să-l surprindem. Ne vedem în weekend, sper. Mersi mult!"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Sper"
+    }
+  ]
+}

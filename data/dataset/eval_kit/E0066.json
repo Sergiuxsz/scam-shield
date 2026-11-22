@@ -1,0 +1,46 @@
+{
+  "id": "E0066",
+  "channel": "call_transcript",
+  "sender": {
+    "name": null,
+    "address": "+40 3xx xxx 725",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună ziua, TehnoMax aici. Aţi cumpărat recent de la noi?"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Da?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Vă felicit!"
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Nu-mi vine să cred!"
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "Aţi primit un voucher de 1.960 lei."
+    },
+    {
+      "n": 6,
+      "from": "reader",
+      "text": "Super!"
+    },
+    {
+      "n": 7,
+      "from": "sender",
+      "text": "Îmi confirmaţi datele cardului pentru taxa de transport? Păstraţi discreţia, altfel premiul se anulează."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "E0260",
+  "channel": "whatsapp",
+  "sender": {
+    "name": "Cristina (vecina)",
+    "address": "+40 7xx xxx 842",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Numărul meu de la serviciu s-a schimbat, cel personal nu. Vorbim mai târziu. Pupici! Te pup!"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Ok"
+    }
+  ]
+}

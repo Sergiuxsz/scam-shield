@@ -1,0 +1,36 @@
+{
+  "id": "E0272",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 175",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună ziua, Profit sigur de 23% pe săptămână cu robotul nostru de trading. Intrați în grupul de Telegram pt semnale. O zi bună!"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Nu înțeleg."
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Fără confirmare, suma se pierde. 👍"
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Nu înțeleg."
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "Fără confirmare, suma se pierde. 😅"
+    }
+  ]
+}

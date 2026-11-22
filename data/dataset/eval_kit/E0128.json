@@ -1,0 +1,41 @@
+{
+  "id": "E0128",
+  "channel": "chat",
+  "sender": {
+    "name": "David, 49",
+    "address": "david585",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună, sunt David. Mi-ar plăcea să ne cunoaştem."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Bună, ne cunoaştem?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Lcurez în construcţii în Germania, vin acasă rar."
+    },
+    {
+      "n": 4,
+      "from": "sender",
+      "text": "Simt că te cunosc de-o viaţă."
+    },
+    {
+      "n": 5,
+      "from": "reader",
+      "text": "Ce muncă grea."
+    },
+    {
+      "n": 6,
+      "from": "sender",
+      "text": "Eşti f specială pentru mine. Eşti singurul meu sprijin acu. Ai grijă de tine."
+    }
+  ]
+}

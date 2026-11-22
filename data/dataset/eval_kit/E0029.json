@@ -1,0 +1,16 @@
+{
+  "id": "E0029",
+  "channel": "email",
+  "sender": {
+    "name": "Ana (frate)",
+    "address": "ana.munteanu@outlook.com",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Buna! Am o intrebare. Colegul de la IT mi-a instalat AnyDesk pe laptopul firmei. Ai grija de tine. Ai grija de tine."
+    }
+  ]
+}

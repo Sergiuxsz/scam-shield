@@ -1,0 +1,16 @@
+{
+  "id": "E0025",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 103",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "stimate client, curierexpres: coletul nu poate fi livrat din cauza unei greutati nedeclarate. alegeti o noua data de livrare: https://cuurierexpres.ro/confirmare mersi!"
+    }
+  ]
+}

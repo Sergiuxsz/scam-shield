@@ -1,0 +1,16 @@
+{
+  "id": "E0212",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 126",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Mesaj ColetNet: Coletul nu poate fi livrat din cauza unei greutăți nedeclarate. Taxa de depozitare de 2,50 lei se plătește pe colet-online.online"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "E0298",
+  "channel": "sms",
+  "sender": {
+    "name": "Oana (vecina)",
+    "address": "+40 7xx xxx 857",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Am făcut grup pe WhatsApp pt excursie. Pupici! Mesri mult!"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Ok"
+    }
+  ]
+}

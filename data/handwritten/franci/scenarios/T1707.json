@@ -1,0 +1,16 @@
+{
+  "id": "T1707",
+  "channel": "whatsapp",
+  "sender": {
+    "name": "Hidroelectrica",
+    "address": "+40 7xx xxx 456",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Factura dvs. este restantă. Evitați deconectarea de la rețea achitând suma de 1.100 lei astăzi: platest.online.ro"
+    }
+  ]
+}

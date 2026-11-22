@@ -1,0 +1,36 @@
+{
+  "id": "E0111",
+  "channel": "whatsapp",
+  "sender": {
+    "name": "Alexandru (soră)",
+    "address": "+40 7xx xxx 402",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Câștig 11.000 lei pe lună doar scriind recenzii, vrei și tu? Uite site-ul: donatii-plata.click Înscrierile se închid azi."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Ce trebuie să fac?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Hei, Ați primit linkul? Sper că ești bine."
+    },
+    {
+      "n": 4,
+      "from": "sender",
+      "text": "Continuăm pe Telegram, e mai simplu."
+    },
+    {
+      "n": 5,
+      "from": "reader",
+      "text": "Nu am cerut nimic."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "E0105",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 597",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "salut mama, mi-am schimbat numărul, ăsta e acum. ți-am trimis pozele de la nuntă pe mail. când ai făcut, trimite-mi o poză cu dovada."
+    }
+  ]
+}

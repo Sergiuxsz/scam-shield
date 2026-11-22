@@ -1,0 +1,16 @@
+{
+  "id": "E0087",
+  "channel": "email",
+  "sender": {
+    "name": "CryptoRo Invest Clienți",
+    "address": "info@plata-24.site",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Românii câștigă 13.500 lei pe lună din acțiuni la energie. Faceți primul depozit de 500 lei în contul RO56PIBD 5183 9190 9178 4686."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "E0092",
+  "channel": "sms",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 731",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "EuroTrade Capital - investiții sigure: Profit sigur de 21% pe săptămână cu robotul nostru de trading. Accesați eurotradecapital.ro.plata-cont.info/verificare Oferta se închide la miezul nopții."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "E0020",
+  "channel": "whatsapp",
+  "sender": {
+    "name": "Nașa Irina",
+    "address": "+40 7xx xxx 598",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Am pus 1.200 lei si acum am 9.500. Inscrie-te pe verificare-online.click, e simplu. Grabeste-te, se inchid inscrierile diseara. Aici ploua de azi-dimineata, tu ce faci?"
+    }
+  ]
+}

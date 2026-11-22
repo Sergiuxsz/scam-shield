@@ -1,0 +1,16 @@
+{
+  "id": "E0169",
+  "channel": "whatsapp",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 666",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună ziua! Departamentul de securitate Banca Dunărea: S-a încercat accesarea contului dvs. dintr-o altă țară; contul va fi blocat. Confirmați identitatea pe bancadunarea.site/cont Este necesar să faceți asta chiar acu. Seară frumoasă!"
+    }
+  ]
+}

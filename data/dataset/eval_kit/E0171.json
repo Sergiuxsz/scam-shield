@@ -1,0 +1,16 @@
+{
+  "id": "E0171",
+  "channel": "sms",
+  "sender": {
+    "name": "CurierExpres",
+    "address": "CurierExpres",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Stimate client, CurierExpres: Coletul nu poate fi livrat din cauza unei greutăți nedeclarate. Pentru eliberare, achitați 4,99 lei pe curierexpres.ro.reprogramare-cont.live/cont Ultima zi pentru plată: azi. Vă mulțumesc anticipat."
+    }
+  ]
+}

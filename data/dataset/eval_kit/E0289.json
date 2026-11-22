@@ -1,0 +1,31 @@
+{
+  "id": "E0289",
+  "channel": "email",
+  "sender": {
+    "name": "CurierExpres",
+    "address": "suport@curierexpres.ro.plata-cont.click",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "CurierExpres - Coletul dvs.: Livrarea coletului 85651672 a esuat. Pentru eliberare, achitati 2,50 lei pe curierexpres.ro.plata-cont.click/formular"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Ok"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Ultima notificare: azi expira."
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "Ok"
+    }
+  ]
+}

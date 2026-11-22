@@ -1,0 +1,36 @@
+{
+  "id": "E0053",
+  "channel": "call_transcript",
+  "sender": {
+    "name": null,
+    "address": "+44 4xx xxx 343",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună ziua, vă contactăm de la Windows. Datele dvs. sunt furate chiar acum."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Ce virus? 😅"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Descărcați programul RustDesk, ca să intru eu în calculator și să-l repar. Nu costă nimic. Trebuie să plătiți licența de protecție, 1.379 lei."
+    },
+    {
+      "n": 4,
+      "from": "sender",
+      "text": "Nu anunțați pe nimeni, altfel trebuie luat de la capăt."
+    },
+    {
+      "n": 5,
+      "from": "reader",
+      "text": "Așteptați, caut. 🙂"
+    }
+  ]
+}

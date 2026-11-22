@@ -1,0 +1,2 @@
+id,verdict,scam_type,risk_score,first_alert,red_flags
+O00_EXAMPLE,SAFE,NONE,20,,RF_NEW_NUMBER

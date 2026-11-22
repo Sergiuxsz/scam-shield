@@ -1,0 +1,45 @@
+/*
+ * Professional layer, loaded last. It keeps the design system (colours, the accessible font, 18 px minimum)
+ * and only changes the "voice" of the shapes: softer radii instead of capsules, one border weight,
+ * quieter surfaces, a proper product header with a live status indicator.
+ */
+:root {
+  --radius-pill: 12px;   /* buttons, tabs, badges: rounded rectangles, not capsules */
+  --radius-lg: 16px;
+  --radius-md: 12px;
+}
+
+/* ---------- Header ---------- */
+.app-header { background: color-mix(in srgb, var(--surface) 92%, transparent); backdrop-filter: saturate(1.2) blur(8px); border-bottom: 1px solid var(--line); }
+.app-brand { display: inline-flex; align-items: center; gap: 12px; font-size: 20px; line-height: 24px; }
+.app-brand-mark { width: 34px; height: 34px; border-radius: 9px; display: grid; place-items: center; background: var(--brand); color: var(--on-brand); flex: none; }
+.app-brand-text { display: flex; flex-direction: column; }
+.app-brand-sub { font-size: 14px; line-height: 18px; font-weight: 600; color: var(--ink-muted); letter-spacing: .01em; }
+.app-header-right { display: flex; align-items: center; gap: 12px; }
+.app-tabs { border-width: 1px; padding: 3px; border-radius: 12px; }
+.app-tab { min-height: 42px; border-radius: 9px; padding: 0 18px; font-size: 17px; }
+
+.status-chip { display: inline-flex; align-items: center; gap: 8px; min-height: 36px; padding: 0 12px; border-radius: 10px; border: 1px solid var(--line-strong); font-size: 15px; font-weight: 700; color: var(--ink-muted); white-space: nowrap; }
+.status-dot { width: 9px; height: 9px; border-radius: 50%; background: var(--ink-muted); }
+.status-chip.is-on .status-dot { background: var(--safe); box-shadow: 0 0 0 3px color-mix(in srgb, var(--safe) 25%, transparent); }
+.status-chip.is-off .status-dot { background: var(--caution); }
+.status-chip.is-off { color: var(--caution); border-color: color-mix(in srgb, var(--caution) 45%, transparent); }
+
+/* ---------- Surfaces ---------- */
+.ss-card, .ss-island, .ss-thread, .ss-meter, .selfcheck, .dash-empty { border-width: 1px !important; }
+.selfcheck { border-radius: 12px; }
+
+/* ---------- Jury table ---------- */
+.jt-wrap { border-radius: 14px; border-color: var(--line); }
+.jt th { font-size: 14px; letter-spacing: .06em; text-transform: uppercase; color: var(--ink-muted); background: var(--surface-sunken); }
+.jt td { border-bottom-color: var(--line); }
+.jt-row:last-child td { border-bottom: 0; }
+.jt-engine { font-size: 13px; letter-spacing: .04em; padding: 3px 9px; border-radius: 6px; border-width: 1px; }
+.jt-caption { font-size: 16px; }
+
+/* ---------- Dashboard toolbar ---------- */
+.dash-bar { padding-bottom: 4px; border-bottom: 1px solid var(--line); }
+
+@media (max-width: 700px) {
+  .app-brand-sub, .status-label { display: none; }
+}

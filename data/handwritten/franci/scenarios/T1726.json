@@ -1,0 +1,16 @@
+{
+  "id": "T1726",
+  "channel": "whatsapp",
+  "sender": {
+    "name": "Bro",
+    "address": "+40 7xx xxx 777",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Vezi ca o sa-ti vina acum pe mail un cod de verificare de la Netflix, trimite-mi-l si mie repede ca m-a delogat de pe televizor si nu ma lasa sa intru fara confirmare."
+    }
+  ]
+}

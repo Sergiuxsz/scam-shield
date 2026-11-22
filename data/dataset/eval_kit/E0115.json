@@ -1,0 +1,21 @@
+{
+  "id": "E0115",
+  "channel": "sms",
+  "sender": {
+    "name": "Darius (serviciu)",
+    "address": "+40 7xx xxx 617",
+    "known_contact": true
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Imi dai linkul de la sedinta de maine? E pe Teams. Vorbim mai tarziu. Sper ca esti bine. Ai grija de tine. 👍"
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "Ok"
+    }
+  ]
+}

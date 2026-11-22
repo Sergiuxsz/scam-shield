@@ -1,0 +1,41 @@
+{
+  "id": "E0231",
+  "channel": "sms",
+  "sender": {
+    "name": null,
+    "address": "+40 7xx xxx 273",
+    "known_contact": false
+  },
+  "messages": [
+    {
+      "n": 1,
+      "from": "sender",
+      "text": "Bună mama, am număr nou. Când poți, îmi trimiți 2.660 lei? Nu e grabă."
+    },
+    {
+      "n": 2,
+      "from": "reader",
+      "text": "De unde aveți numărul meu?"
+    },
+    {
+      "n": 3,
+      "from": "sender",
+      "text": "Revin cu rugămintea de mai sus."
+    },
+    {
+      "n": 4,
+      "from": "reader",
+      "text": "De unde aveți numărul meu?"
+    },
+    {
+      "n": 5,
+      "from": "sender",
+      "text": "Fără confirmare, suma se pierde."
+    },
+    {
+      "n": 6,
+      "from": "reader",
+      "text": "De unde aveți numărul meu?"
+    }
+  ]
+}
