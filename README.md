@@ -91,7 +91,7 @@ python evaluation\evaluate.py                       # V01-V11 against the offici
 .\scripts\start_demo.ps1 -Pill                      # also the desktop pill (npm install in ui\desktop first)
 ```
 
-Without models everything still runs on rules only (`python evaluation\evaluate.py --no-encoder`).
+Without models everything still runs on rules only (`python evaluation\evaluate.py --no-encoder`). 
 
 ## Privacy and safety
 
