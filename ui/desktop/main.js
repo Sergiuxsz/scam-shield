@@ -22,7 +22,10 @@ if (DEMO && !process.env.SCAM_SHIELD_PROFILE) process.env.SCAM_SHIELD_PROFILE = 
 const PORT = Number(process.env.SCAM_SHIELD_PORT || (DEMO ? 7790 : 7777));
 const MAX_HISTORY = 50;
 const PILL_W = 600;
-const PILL_H = 540; // room for the island to cascade down; the transparent rest lets clicks through
+// Initial height. The window then follows the card's height (pill.js measures it and sends
+// 'shield:pill-size'), so a tall card is never cut off; the transparent rest lets clicks through.
+const PILL_H = 540;
+const PILL_MIN_H = 120;
 
 // SCAM_SHIELD_PROFILE=test runs a separate instance (own token, own lock) next to the normal one.
 if (process.env.SCAM_SHIELD_PROFILE) {
@@ -94,7 +97,8 @@ function createPill() {
   pill = new BrowserWindow({
     width: PILL_W, height: PILL_H,
     x: Math.round(area.x + (area.width - PILL_W) / 2), y: area.y + 8,
-    frame: false, transparent: true, resizable: false, movable: false, hasShadow: false,
+    // backgroundColor fully transparent: without it Windows paints a faint light box behind the card.
+    frame: false, transparent: true, backgroundColor: '#00000000', resizable: false, movable: false, hasShadow: false,
     alwaysOnTop: true, skipTaskbar: true, focusable: true, show: false,
     webPreferences: { preload: path.join(__dirname, 'preload.js'), contextIsolation: true, sandbox: true, nodeIntegration: false, backgroundThrottling: false }
   });
@@ -168,6 +172,14 @@ function onResult(e) {
 
 ipcMain.on('shield:pill-hover', (_e, over) => {
   if (pill && !pill.isDestroyed()) pill.setIgnoreMouseEvents(!over, { forward: true });
+});
+// The pill window follows its content (resting pill, or the alert card), capped to the screen.
+ipcMain.on('shield:pill-size', (_e, height) => {
+  if (!pill || pill.isDestroyed() || !Number.isFinite(height)) return;
+  const area = screen.getPrimaryDisplay().workArea;
+  const h = Math.max(PILL_MIN_H, Math.min(area.height - 8, Math.ceil(height)));
+  const b = pill.getBounds();
+  if (b.height !== h) pill.setBounds({ x: b.x, y: b.y, width: b.width, height: h });
 });
 ipcMain.on('shield:open-pane', (_e, id) => {
   if (typeof id === 'string') state.selectedId = id;

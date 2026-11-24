@@ -3,6 +3,8 @@ html, body { margin: 0; height: 100%; background: transparent !important; overfl
 body { font-family: var(--font-sans); -webkit-font-smoothing: antialiased; user-select: none; }
 #root, .stage { height: 100%; }
 .stage { display: flex; justify-content: center; align-items: flex-start; padding-top: 6px; box-sizing: border-box; }
+/* Measured by pill.js: the window is resized to this content's height (+ room for the shadow). */
+.stage-content { display: flex; justify-content: center; }
 
 /* ---------- Resting pill ---------- */
 .pill {
@@ -26,6 +28,8 @@ body { font-family: var(--font-sans); -webkit-font-smoothing: antialiased; user-
 .island {
   width: 560px; box-sizing: border-box;
   border-radius: 20px; overflow: hidden;
+  /* Never taller than the screen; if it would be, the body scrolls instead of being cut off. */
+  max-height: var(--island-max, 85vh); display: flex; flex-direction: column;
   background: #0d1413; color: #eef3f2;
   border: 1px solid #263432;
   box-shadow: 0 24px 60px rgba(0, 0, 0, .55), 0 2px 6px rgba(0, 0, 0, .3);
@@ -52,7 +56,10 @@ body { font-family: var(--font-sans); -webkit-font-smoothing: antialiased; user-
 .alert-x { font: inherit; font-size: 26px; line-height: 1; width: 44px; height: 44px; border-radius: 10px; border: 0; cursor: pointer; background: transparent; color: #b9c6c4; flex: none; }
 .alert-x:hover { background: #2a1715; color: #fff; }
 
-.island-body { padding: 18px 20px 20px; display: flex; flex-direction: column; gap: 16px; }
+.island-head { flex: none; }
+.island-body { padding: 18px 20px 20px; display: flex; flex-direction: column; gap: 16px; min-height: 0; overflow-y: auto; }
+.island-body::-webkit-scrollbar { width: 8px; }
+.island-body::-webkit-scrollbar-thumb { background: #2a3a38; border-radius: 4px; }
 .step { display: flex; flex-direction: column; gap: 8px; animation: fade-up .35s ease-out both; }
 .step-label { font-size: 13px; line-height: 16px; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; color: #8fa19e; }
 

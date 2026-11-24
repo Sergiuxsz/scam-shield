@@ -6,6 +6,7 @@ const { contextBridge, ipcRenderer } = require('electron');
 contextBridge.exposeInMainWorld('shield', {
   onState: (cb) => { ipcRenderer.on('shield:state', (_e, s) => cb(s)); },
   pillHover: (over) => ipcRenderer.send('shield:pill-hover', !!over),
+  pillSize: (height) => ipcRenderer.send('shield:pill-size', Number(height)),
   openPane: (id) => ipcRenderer.send('shield:open-pane', id || null),
   togglePane: () => ipcRenderer.send('shield:toggle-pane'),
   hidePane: () => ipcRenderer.send('shield:hide-pane'),

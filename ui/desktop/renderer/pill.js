@@ -192,13 +192,28 @@
       h('span', { className: 'pill-name' }, 'Scam Shield'));
   }
 
-  /* The window is transparent and larger than the island: clicks pass through everywhere except the island. */
+  /* The window is transparent and larger than the island: clicks pass through everywhere except the island.
+     It also follows the content's height: the card is measured and the main process resizes the window,
+     so a long card (three reasons + buttons) is never cut off at the bottom. */
+  var SHADOW_ROOM = 80; // below the card: its drop shadow (60px blur) and the red pulse ring (16px)
+  var TOP_PAD = 6;      // .stage padding-top
+  // Cap the card to the screen (in px, not vh: vh would follow the window, which follows the card).
+  document.documentElement.style.setProperty('--island-max', Math.max(300, window.screen.availHeight - TOP_PAD - SHADOW_ROOM - 16) + 'px');
+
   function Stage() {
+    var ref = React.useRef(null);
+    useEffect(function () {
+      var el = ref.current;
+      if (!el || !window.ResizeObserver) return undefined;
+      var ro = new ResizeObserver(function () { window.shield.pillSize(el.offsetHeight + TOP_PAD + SHADOW_ROOM); });
+      ro.observe(el);
+      return function () { ro.disconnect(); };
+    }, []);
     return h('div', {
       className: 'stage',
       onMouseOver: function (e) { window.shield.pillHover(!!e.target.closest('.pill, .island')); },
       onMouseLeave: function () { window.shield.pillHover(false); }
-    }, h(Island));
+    }, h('div', { ref: ref, className: 'stage-content' }, h(Island)));
   }
 
   ReactDOM.createRoot(document.getElementById('root')).render(h(Stage));
