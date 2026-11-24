@@ -1,6 +1,6 @@
 # Scam Shield, explained from start to finish
 
-**Echipa Surpriza** · Stefan Bejenescu, Francesca Micu, Sergiu Baroiamn
+**Echipa Surpriza** · Stefan Bejenescu, Francesca Micu, Sergiu Baroian
 R Systems × EESTEC LC Bucharest · Hackathon 2026
 
 This document tells the full story behind the slides. It follows the same order as the presentation. For every
@@ -360,4 +360,4 @@ contention to the live run. The full record of the experiment is kept in `docs/L
 Stop, check, and call the official number. Scam Shield exists to give that advice at the right moment, in calm and
 simple words, without ever sending a private message off the laptop.
 
-**Echipa Surpriza** · Stefan Bejenescu, Francesca Micu, Sergiu Baroiamn · Mulțumim!
+**Echipa Surpriza** · Stefan Bejenescu, Francesca Micu, Sergiu Baroian · Mulțumim!

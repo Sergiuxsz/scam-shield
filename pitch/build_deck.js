@@ -249,8 +249,8 @@ cat(s, 'sleeping_full', 7.8, 1.45, 1.5, 'Scam Shield cat, asleep');
 text(s, 'LLM: switched off', { x: 7.35, y: 3.35, w: 2.4, h: 0.35, fontSize: 13, bold: true, color: C.accent5, align: 'center' });
 
 // ---------------- 14. Close ----------------
-s = slide('Close', 'DARK', 'Stop, check, call the official number', 'Close (10 s). Echipa Surpriza: Stefan Bejenescu, Francesca Micu, Sergiu Baroiamn.');
-s.addText([{ text: 'Echipa Surpriza', options: { bold: true, breakLine: true } }, { text: 'Stefan Bejenescu · Francesca Micu · Sergiu Baroiamn', options: { breakLine: true } }, { text: 'Mulțumim!' }], { placeholder: 'body' });
+s = slide('Close', 'DARK', 'Stop, check, call the official number', 'Close (10 s). Echipa Surpriza: Stefan Bejenescu, Francesca Micu, Sergiu Baroian.');
+s.addText([{ text: 'Echipa Surpriza', options: { bold: true, breakLine: true } }, { text: 'Stefan Bejenescu · Francesca Micu · Sergiu Baroian', options: { breakLine: true } }, { text: 'Mulțumim!' }], { placeholder: 'body' });
 dot(s, 6.15, 0.95, 3.4, C.text2);
 cat(s, 'scam_head_sign', 6.55, 1.45, 2.6, 'Scam Shield cat holding a stop sign');
 

@@ -2,7 +2,7 @@
 
 **Detects scam messages and conversations in Romanian, and warns the reader in words a grandparent
 understands.** Built in one day for the R Systems side challenge at EESTEC LC Bucharest (14th edition),
-where it won **2nd place**. Team *Echipa Surpriza*: Stefan Bejenescu, Francesca Micu, Sergiu Baroiamn.
+where it won **2nd place**. Team *Echipa Surpriza*: Stefan Bejenescu, Francesca Micu, Sergiu Baroian.
 
 You paste a message, open a conversation file, or let the desktop pill listen in the background.
 Scam Shield finds the official **red flags** message by message, computes the official **risk score**,
